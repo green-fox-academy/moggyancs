@@ -3,5 +3,4 @@
 - https://github.com/moggyancs/patchwork
 - https://github.com/moggyancs/git-lesson-repository
 
-## Pebble syllabus:
-/ https://github.com/greenfox-academy/pebble-syllabus
+- [Pebble syllabus](https://github.com/greenfox-academy/pebble-syllabus)
