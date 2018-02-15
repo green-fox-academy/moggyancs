@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\obj\Debug\netcoreapp2.0\06.CodingHours.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\obj\Debug\netcoreapp2.0\06.CodingHours.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\obj\Debug\netcoreapp2.0\06.CodingHours.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\obj\Debug\netcoreapp2.0\06.CodingHours.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\bin\Debug\netcoreapp2.0\06.CodingHours.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\bin\Debug\netcoreapp2.0\06.CodingHours.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\bin\Debug\netcoreapp2.0\06.CodingHours.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\bin\Debug\netcoreapp2.0\06.CodingHours.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\bin\Debug\netcoreapp2.0\06.CodingHours.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\obj\Debug\netcoreapp2.0\06.CodingHours.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\06.CodingHours\06.CodingHours\obj\Debug\netcoreapp2.0\06.CodingHours.pdb
