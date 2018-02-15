@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\bin\Debug\netcoreapp2.0\21.PartyIndicator.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\bin\Debug\netcoreapp2.0\21.PartyIndicator.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\bin\Debug\netcoreapp2.0\21.PartyIndicator.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\bin\Debug\netcoreapp2.0\21.PartyIndicator.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\bin\Debug\netcoreapp2.0\21.PartyIndicator.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\obj\Debug\netcoreapp2.0\21.PartyIndicator.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\obj\Debug\netcoreapp2.0\21.PartyIndicator.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\obj\Debug\netcoreapp2.0\21.PartyIndicator.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\obj\Debug\netcoreapp2.0\21.PartyIndicator.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\obj\Debug\netcoreapp2.0\21.PartyIndicator.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\21.PartyIndicator\21.PartyIndicator\obj\Debug\netcoreapp2.0\21.PartyIndicator.pdb
