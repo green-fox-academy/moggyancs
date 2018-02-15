@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Material
+namespace ConsoleApp1
 {
     class Program
     {
@@ -14,6 +14,7 @@ namespace Material
             bool isMarried = true;
             char firstLetterFirstName = 'G';
             string name = "moira85";
+            // green underline: variable assigned with value, but never used.
 
            // console write options
             Console.Write("Hello\t");

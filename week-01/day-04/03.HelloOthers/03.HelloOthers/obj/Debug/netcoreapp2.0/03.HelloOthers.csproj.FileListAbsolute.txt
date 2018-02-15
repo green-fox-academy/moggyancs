@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\bin\Debug\netcoreapp2.0\03.HelloOthers.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\bin\Debug\netcoreapp2.0\03.HelloOthers.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\bin\Debug\netcoreapp2.0\03.HelloOthers.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\bin\Debug\netcoreapp2.0\03.HelloOthers.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\bin\Debug\netcoreapp2.0\03.HelloOthers.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\obj\Debug\netcoreapp2.0\03.HelloOthers.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\obj\Debug\netcoreapp2.0\03.HelloOthers.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\obj\Debug\netcoreapp2.0\03.HelloOthers.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\obj\Debug\netcoreapp2.0\03.HelloOthers.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\obj\Debug\netcoreapp2.0\03.HelloOthers.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\03.HelloOthers\03.HelloOthers\obj\Debug\netcoreapp2.0\03.HelloOthers.pdb
