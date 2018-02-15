@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\bin\Debug\netcoreapp2.0\12.Cuboid.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\bin\Debug\netcoreapp2.0\12.Cuboid.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\bin\Debug\netcoreapp2.0\12.Cuboid.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\bin\Debug\netcoreapp2.0\12.Cuboid.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\bin\Debug\netcoreapp2.0\12.Cuboid.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\obj\Debug\netcoreapp2.0\12.Cuboid.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\obj\Debug\netcoreapp2.0\12.Cuboid.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\obj\Debug\netcoreapp2.0\12.Cuboid.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\obj\Debug\netcoreapp2.0\12.Cuboid.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\obj\Debug\netcoreapp2.0\12.Cuboid.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\12.Cuboid\12.Cuboid\obj\Debug\netcoreapp2.0\12.Cuboid.pdb

@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\bin\Debug\netcoreapp2.0\10.DefineBasicInfo.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\bin\Debug\netcoreapp2.0\10.DefineBasicInfo.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\bin\Debug\netcoreapp2.0\10.DefineBasicInfo.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\bin\Debug\netcoreapp2.0\10.DefineBasicInfo.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\bin\Debug\netcoreapp2.0\10.DefineBasicInfo.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\obj\Debug\netcoreapp2.0\10.DefineBasicInfo.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\obj\Debug\netcoreapp2.0\10.DefineBasicInfo.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\obj\Debug\netcoreapp2.0\10.DefineBasicInfo.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\obj\Debug\netcoreapp2.0\10.DefineBasicInfo.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\10.DefineBasicInfo\10.DefineBasicInfo\obj\Debug\netcoreapp2.0\10.DefineBasicInfo.pdb

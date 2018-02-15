@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\bin\Debug\netcoreapp2.0\13.SecondsInADay.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\bin\Debug\netcoreapp2.0\13.SecondsInADay.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\bin\Debug\netcoreapp2.0\13.SecondsInADay.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\bin\Debug\netcoreapp2.0\13.SecondsInADay.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\bin\Debug\netcoreapp2.0\13.SecondsInADay.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\obj\Debug\netcoreapp2.0\13.SecondsInADay.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\obj\Debug\netcoreapp2.0\13.SecondsInADay.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\obj\Debug\netcoreapp2.0\13.SecondsInADay.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\obj\Debug\netcoreapp2.0\13.SecondsInADay.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\obj\Debug\netcoreapp2.0\13.SecondsInADay.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\13.SecondsInADay\13.SecondsInADay\obj\Debug\netcoreapp2.0\13.SecondsInADay.pdb

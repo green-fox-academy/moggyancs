@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\bin\Debug\netcoreapp2.0\09.BMI.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\bin\Debug\netcoreapp2.0\09.BMI.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\bin\Debug\netcoreapp2.0\09.BMI.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\bin\Debug\netcoreapp2.0\09.BMI.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\bin\Debug\netcoreapp2.0\09.BMI.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\obj\Debug\netcoreapp2.0\09.BMI.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\obj\Debug\netcoreapp2.0\09.BMI.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\obj\Debug\netcoreapp2.0\09.BMI.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\obj\Debug\netcoreapp2.0\09.BMI.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\obj\Debug\netcoreapp2.0\09.BMI.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\09.BMI\09.BMI\obj\Debug\netcoreapp2.0\09.BMI.pdb

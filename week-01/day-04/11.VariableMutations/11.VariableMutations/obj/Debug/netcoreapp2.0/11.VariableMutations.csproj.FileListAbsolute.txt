@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\obj\Debug\netcoreapp2.0\11.VariableMutations.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\obj\Debug\netcoreapp2.0\11.VariableMutations.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\obj\Debug\netcoreapp2.0\11.VariableMutations.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\obj\Debug\netcoreapp2.0\11.VariableMutations.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\bin\Debug\netcoreapp2.0\11.VariableMutations.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\bin\Debug\netcoreapp2.0\11.VariableMutations.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\bin\Debug\netcoreapp2.0\11.VariableMutations.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\bin\Debug\netcoreapp2.0\11.VariableMutations.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\bin\Debug\netcoreapp2.0\11.VariableMutations.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\obj\Debug\netcoreapp2.0\11.VariableMutations.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\11.VariableMutations\11.VariableMutations\obj\Debug\netcoreapp2.0\11.VariableMutations.pdb
