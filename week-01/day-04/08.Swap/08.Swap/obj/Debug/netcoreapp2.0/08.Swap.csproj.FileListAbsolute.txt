@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\bin\Debug\netcoreapp2.0\08.Swap.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\bin\Debug\netcoreapp2.0\08.Swap.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\bin\Debug\netcoreapp2.0\08.Swap.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\bin\Debug\netcoreapp2.0\08.Swap.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\bin\Debug\netcoreapp2.0\08.Swap.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\obj\Debug\netcoreapp2.0\08.Swap.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\obj\Debug\netcoreapp2.0\08.Swap.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\obj\Debug\netcoreapp2.0\08.Swap.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\obj\Debug\netcoreapp2.0\08.Swap.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\obj\Debug\netcoreapp2.0\08.Swap.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\08.Swap\08.Swap\obj\Debug\netcoreapp2.0\08.Swap.pdb
