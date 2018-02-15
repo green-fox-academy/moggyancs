@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\bin\Debug\netcoreapp2.0\01.HelloMe.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\bin\Debug\netcoreapp2.0\01.HelloMe.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\bin\Debug\netcoreapp2.0\01.HelloMe.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\bin\Debug\netcoreapp2.0\01.HelloMe.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\bin\Debug\netcoreapp2.0\01.HelloMe.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\obj\Debug\netcoreapp2.0\01.HelloMe.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\obj\Debug\netcoreapp2.0\01.HelloMe.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\obj\Debug\netcoreapp2.0\01.HelloMe.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\obj\Debug\netcoreapp2.0\01.HelloMe.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\obj\Debug\netcoreapp2.0\01.HelloMe.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\01.HelloMe\01.HelloMe\obj\Debug\netcoreapp2.0\01.HelloMe.pdb

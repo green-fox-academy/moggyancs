@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\bin\Debug\netcoreapp2.0\02.HumptyDumpty.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\bin\Debug\netcoreapp2.0\02.HumptyDumpty.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\bin\Debug\netcoreapp2.0\02.HumptyDumpty.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\bin\Debug\netcoreapp2.0\02.HumptyDumpty.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\bin\Debug\netcoreapp2.0\02.HumptyDumpty.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\obj\Debug\netcoreapp2.0\02.HumptyDumpty.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\obj\Debug\netcoreapp2.0\02.HumptyDumpty.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\obj\Debug\netcoreapp2.0\02.HumptyDumpty.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\obj\Debug\netcoreapp2.0\02.HumptyDumpty.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\obj\Debug\netcoreapp2.0\02.HumptyDumpty.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\02.HumptyDumpty\02.HumptyDumpty\obj\Debug\netcoreapp2.0\02.HumptyDumpty.pdb
