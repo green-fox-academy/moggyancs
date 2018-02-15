@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\bin\Debug\netcoreapp2.0\07.FavoriteNumber.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\bin\Debug\netcoreapp2.0\07.FavoriteNumber.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\bin\Debug\netcoreapp2.0\07.FavoriteNumber.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\bin\Debug\netcoreapp2.0\07.FavoriteNumber.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\bin\Debug\netcoreapp2.0\07.FavoriteNumber.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\obj\Debug\netcoreapp2.0\07.FavoriteNumber.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\obj\Debug\netcoreapp2.0\07.FavoriteNumber.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\obj\Debug\netcoreapp2.0\07.FavoriteNumber.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\obj\Debug\netcoreapp2.0\07.FavoriteNumber.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\obj\Debug\netcoreapp2.0\07.FavoriteNumber.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\07.FavoriteNumber\07.FavoriteNumber\obj\Debug\netcoreapp2.0\07.FavoriteNumber.pdb
