@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\bin\Debug\netcoreapp2.0\04.IntroduceYourself.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\bin\Debug\netcoreapp2.0\04.IntroduceYourself.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\bin\Debug\netcoreapp2.0\04.IntroduceYourself.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\bin\Debug\netcoreapp2.0\04.IntroduceYourself.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\bin\Debug\netcoreapp2.0\04.IntroduceYourself.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\obj\Debug\netcoreapp2.0\04.IntroduceYourself.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\obj\Debug\netcoreapp2.0\04.IntroduceYourself.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\obj\Debug\netcoreapp2.0\04.IntroduceYourself.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\obj\Debug\netcoreapp2.0\04.IntroduceYourself.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\obj\Debug\netcoreapp2.0\04.IntroduceYourself.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\04.IntroduceYourself\04.IntroduceYourself\obj\Debug\netcoreapp2.0\04.IntroduceYourself.pdb
