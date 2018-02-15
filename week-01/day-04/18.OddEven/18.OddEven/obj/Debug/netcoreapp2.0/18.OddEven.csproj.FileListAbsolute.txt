@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\bin\Debug\netcoreapp2.0\18.OddEven.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\bin\Debug\netcoreapp2.0\18.OddEven.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\bin\Debug\netcoreapp2.0\18.OddEven.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\bin\Debug\netcoreapp2.0\18.OddEven.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\bin\Debug\netcoreapp2.0\18.OddEven.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\obj\Debug\netcoreapp2.0\18.OddEven.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\obj\Debug\netcoreapp2.0\18.OddEven.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\obj\Debug\netcoreapp2.0\18.OddEven.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\obj\Debug\netcoreapp2.0\18.OddEven.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\18.OddEven\18.OddEven\obj\Debug\netcoreapp2.0\18.OddEven.pdb

@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\obj\Debug\netcoreapp2.0\15.MileToKmConverter.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\obj\Debug\netcoreapp2.0\15.MileToKmConverter.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\obj\Debug\netcoreapp2.0\15.MileToKmConverter.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\obj\Debug\netcoreapp2.0\15.MileToKmConverter.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\bin\Debug\netcoreapp2.0\15.MileToKmConverter.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\bin\Debug\netcoreapp2.0\15.MileToKmConverter.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\bin\Debug\netcoreapp2.0\15.MileToKmConverter.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\bin\Debug\netcoreapp2.0\15.MileToKmConverter.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\bin\Debug\netcoreapp2.0\15.MileToKmConverter.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\obj\Debug\netcoreapp2.0\15.MileToKmConverter.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\15.MileToKmConverter\15.MileToKmConverter\obj\Debug\netcoreapp2.0\15.MileToKmConverter.pdb

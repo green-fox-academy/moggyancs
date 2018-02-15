@@ -1,0 +1,11 @@
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\bin\Debug\netcoreapp2.0\14.HelloUser.deps.json
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\bin\Debug\netcoreapp2.0\14.HelloUser.runtimeconfig.json
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\bin\Debug\netcoreapp2.0\14.HelloUser.runtimeconfig.dev.json
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\bin\Debug\netcoreapp2.0\14.HelloUser.dll
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\bin\Debug\netcoreapp2.0\14.HelloUser.pdb
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\obj\Debug\netcoreapp2.0\14.HelloUser.csprojResolveAssemblyReference.cache
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\obj\Debug\netcoreapp2.0\14.HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\obj\Debug\netcoreapp2.0\14.HelloUser.AssemblyInfoInputs.cache
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\obj\Debug\netcoreapp2.0\14.HelloUser.AssemblyInfo.cs
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\obj\Debug\netcoreapp2.0\14.HelloUser.dll
+C:\Users\moggy\source\repos\14.HelloUser\14.HelloUser\obj\Debug\netcoreapp2.0\14.HelloUser.pdb

@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\bin\Debug\netcoreapp2.0\20.PrintBigger.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\bin\Debug\netcoreapp2.0\20.PrintBigger.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\bin\Debug\netcoreapp2.0\20.PrintBigger.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\bin\Debug\netcoreapp2.0\20.PrintBigger.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\bin\Debug\netcoreapp2.0\20.PrintBigger.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\obj\Debug\netcoreapp2.0\20.PrintBigger.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\obj\Debug\netcoreapp2.0\20.PrintBigger.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\obj\Debug\netcoreapp2.0\20.PrintBigger.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\obj\Debug\netcoreapp2.0\20.PrintBigger.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\20.PrintBigger\20.PrintBigger\obj\Debug\netcoreapp2.0\20.PrintBigger.pdb

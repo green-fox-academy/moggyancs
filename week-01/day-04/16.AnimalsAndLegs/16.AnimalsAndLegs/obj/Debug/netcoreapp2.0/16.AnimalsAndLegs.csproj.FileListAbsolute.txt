@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\bin\Debug\netcoreapp2.0\16.AnimalsAndLegs.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\bin\Debug\netcoreapp2.0\16.AnimalsAndLegs.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\bin\Debug\netcoreapp2.0\16.AnimalsAndLegs.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\bin\Debug\netcoreapp2.0\16.AnimalsAndLegs.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\bin\Debug\netcoreapp2.0\16.AnimalsAndLegs.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\obj\Debug\netcoreapp2.0\16.AnimalsAndLegs.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\obj\Debug\netcoreapp2.0\16.AnimalsAndLegs.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\obj\Debug\netcoreapp2.0\16.AnimalsAndLegs.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\obj\Debug\netcoreapp2.0\16.AnimalsAndLegs.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\obj\Debug\netcoreapp2.0\16.AnimalsAndLegs.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\16.AnimalsAndLegs\16.AnimalsAndLegs\obj\Debug\netcoreapp2.0\16.AnimalsAndLegs.pdb

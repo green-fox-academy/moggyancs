@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\bin\Debug\netcoreapp2.0\19.OneTwoALot.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\bin\Debug\netcoreapp2.0\19.OneTwoALot.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\bin\Debug\netcoreapp2.0\19.OneTwoALot.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\bin\Debug\netcoreapp2.0\19.OneTwoALot.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\bin\Debug\netcoreapp2.0\19.OneTwoALot.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\obj\Debug\netcoreapp2.0\19.OneTwoALot.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\obj\Debug\netcoreapp2.0\19.OneTwoALot.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\obj\Debug\netcoreapp2.0\19.OneTwoALot.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\obj\Debug\netcoreapp2.0\19.OneTwoALot.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\obj\Debug\netcoreapp2.0\19.OneTwoALot.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-04\19.OneTwoALot\19.OneTwoALot\obj\Debug\netcoreapp2.0\19.OneTwoALot.pdb

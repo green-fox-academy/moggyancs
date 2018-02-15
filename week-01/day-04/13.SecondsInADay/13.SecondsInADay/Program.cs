@@ -16,7 +16,7 @@ namespace _13.SecondsInADay
             int gonetime = (currentHours * 60 * 60 + currentMinutes * 60 + currentSeconds);
             int timeleft = (24 * 60 * 60 - gonetime);
 
-            Console.WriteLine(timeleft);
+            Console.WriteLine("There are {0} seconds left for today.", timeleft);
             Console.ReadLine();
 
 
