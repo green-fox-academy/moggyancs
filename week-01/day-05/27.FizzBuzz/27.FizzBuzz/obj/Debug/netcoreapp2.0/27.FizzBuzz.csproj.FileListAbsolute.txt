@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\bin\Debug\netcoreapp2.0\27.FizzBuzz.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\bin\Debug\netcoreapp2.0\27.FizzBuzz.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\bin\Debug\netcoreapp2.0\27.FizzBuzz.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\bin\Debug\netcoreapp2.0\27.FizzBuzz.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\bin\Debug\netcoreapp2.0\27.FizzBuzz.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\obj\Debug\netcoreapp2.0\27.FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\obj\Debug\netcoreapp2.0\27.FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\obj\Debug\netcoreapp2.0\27.FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\obj\Debug\netcoreapp2.0\27.FizzBuzz.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\obj\Debug\netcoreapp2.0\27.FizzBuzz.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\27.FizzBuzz\27.FizzBuzz\obj\Debug\netcoreapp2.0\27.FizzBuzz.pdb

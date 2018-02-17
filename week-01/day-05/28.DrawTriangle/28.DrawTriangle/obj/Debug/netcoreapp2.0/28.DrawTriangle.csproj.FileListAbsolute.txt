@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\bin\Debug\netcoreapp2.0\28.DrawTriangle.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\bin\Debug\netcoreapp2.0\28.DrawTriangle.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\bin\Debug\netcoreapp2.0\28.DrawTriangle.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\bin\Debug\netcoreapp2.0\28.DrawTriangle.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\bin\Debug\netcoreapp2.0\28.DrawTriangle.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\obj\Debug\netcoreapp2.0\28.DrawTriangle.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\obj\Debug\netcoreapp2.0\28.DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\obj\Debug\netcoreapp2.0\28.DrawTriangle.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\obj\Debug\netcoreapp2.0\28.DrawTriangle.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\obj\Debug\netcoreapp2.0\28.DrawTriangle.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\28.DrawTriangle\28.DrawTriangle\obj\Debug\netcoreapp2.0\28.DrawTriangle.pdb
