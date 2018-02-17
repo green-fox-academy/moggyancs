@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\bin\Debug\netcoreapp2.0\23.IWontCheatOnExams.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\bin\Debug\netcoreapp2.0\23.IWontCheatOnExams.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\bin\Debug\netcoreapp2.0\23.IWontCheatOnExams.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\bin\Debug\netcoreapp2.0\23.IWontCheatOnExams.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\bin\Debug\netcoreapp2.0\23.IWontCheatOnExams.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\obj\Debug\netcoreapp2.0\23.IWontCheatOnExams.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\obj\Debug\netcoreapp2.0\23.IWontCheatOnExams.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\obj\Debug\netcoreapp2.0\23.IWontCheatOnExams.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\obj\Debug\netcoreapp2.0\23.IWontCheatOnExams.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\obj\Debug\netcoreapp2.0\23.IWontCheatOnExams.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\23.IWontCheatOnExams\23.IWontCheatOnExams\obj\Debug\netcoreapp2.0\23.IWontCheatOnExams.pdb

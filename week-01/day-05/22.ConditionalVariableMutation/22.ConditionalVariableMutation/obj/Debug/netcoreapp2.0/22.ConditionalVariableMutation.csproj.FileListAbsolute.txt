@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\obj\Debug\netcoreapp2.0\22.ConditionalVariableMutation.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\obj\Debug\netcoreapp2.0\22.ConditionalVariableMutation.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\obj\Debug\netcoreapp2.0\22.ConditionalVariableMutation.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\obj\Debug\netcoreapp2.0\22.ConditionalVariableMutation.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\bin\Debug\netcoreapp2.0\22.ConditionalVariableMutation.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\bin\Debug\netcoreapp2.0\22.ConditionalVariableMutation.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\bin\Debug\netcoreapp2.0\22.ConditionalVariableMutation.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\bin\Debug\netcoreapp2.0\22.ConditionalVariableMutation.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\bin\Debug\netcoreapp2.0\22.ConditionalVariableMutation.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\obj\Debug\netcoreapp2.0\22.ConditionalVariableMutation.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\22.ConditionalVariableMutation\22.ConditionalVariableMutation\obj\Debug\netcoreapp2.0\22.ConditionalVariableMutation.pdb

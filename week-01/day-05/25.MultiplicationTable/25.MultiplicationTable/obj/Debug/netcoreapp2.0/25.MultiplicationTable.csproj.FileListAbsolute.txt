@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\bin\Debug\netcoreapp2.0\25.MultiplicationTable.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\bin\Debug\netcoreapp2.0\25.MultiplicationTable.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\bin\Debug\netcoreapp2.0\25.MultiplicationTable.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\bin\Debug\netcoreapp2.0\25.MultiplicationTable.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\bin\Debug\netcoreapp2.0\25.MultiplicationTable.pdb
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\obj\Debug\netcoreapp2.0\25.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\obj\Debug\netcoreapp2.0\25.MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\obj\Debug\netcoreapp2.0\25.MultiplicationTable.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\obj\Debug\netcoreapp2.0\25.MultiplicationTable.dll
+C:\Users\moggy\greenfox\moggyancs\week-01\day-05\25.MultiplicationTable\25.MultiplicationTable\obj\Debug\netcoreapp2.0\25.MultiplicationTable.pdb
