@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\bin\Debug\netcoreapp2.0\SwapElements.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\bin\Debug\netcoreapp2.0\SwapElements.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\bin\Debug\netcoreapp2.0\SwapElements.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\bin\Debug\netcoreapp2.0\SwapElements.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\bin\Debug\netcoreapp2.0\SwapElements.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\obj\Debug\netcoreapp2.0\SwapElements.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\obj\Debug\netcoreapp2.0\SwapElements.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\obj\Debug\netcoreapp2.0\SwapElements.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\obj\Debug\netcoreapp2.0\SwapElements.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SwapElements\SwapElements\obj\Debug\netcoreapp2.0\SwapElements.pdb

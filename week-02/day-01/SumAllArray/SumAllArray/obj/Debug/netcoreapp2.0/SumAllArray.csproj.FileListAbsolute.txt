@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\bin\Debug\netcoreapp2.0\SumAllArray.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\bin\Debug\netcoreapp2.0\SumAllArray.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\bin\Debug\netcoreapp2.0\SumAllArray.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\bin\Debug\netcoreapp2.0\SumAllArray.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\bin\Debug\netcoreapp2.0\SumAllArray.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\obj\Debug\netcoreapp2.0\SumAllArray.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\obj\Debug\netcoreapp2.0\SumAllArray.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\obj\Debug\netcoreapp2.0\SumAllArray.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\obj\Debug\netcoreapp2.0\SumAllArray.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\obj\Debug\netcoreapp2.0\SumAllArray.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\SumAllArray\SumAllArray\obj\Debug\netcoreapp2.0\SumAllArray.pdb
