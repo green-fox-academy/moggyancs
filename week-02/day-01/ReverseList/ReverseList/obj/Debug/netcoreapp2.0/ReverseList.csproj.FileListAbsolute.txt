@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\bin\Debug\netcoreapp2.0\ReverseList.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\bin\Debug\netcoreapp2.0\ReverseList.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\bin\Debug\netcoreapp2.0\ReverseList.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\bin\Debug\netcoreapp2.0\ReverseList.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\bin\Debug\netcoreapp2.0\ReverseList.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\obj\Debug\netcoreapp2.0\ReverseList.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\obj\Debug\netcoreapp2.0\ReverseList.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\obj\Debug\netcoreapp2.0\ReverseList.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\obj\Debug\netcoreapp2.0\ReverseList.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ReverseList\ReverseList\obj\Debug\netcoreapp2.0\ReverseList.pdb
