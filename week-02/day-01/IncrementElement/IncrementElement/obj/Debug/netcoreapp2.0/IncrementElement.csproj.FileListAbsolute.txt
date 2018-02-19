@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\bin\Debug\netcoreapp2.0\IncrementElement.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\bin\Debug\netcoreapp2.0\IncrementElement.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\bin\Debug\netcoreapp2.0\IncrementElement.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\bin\Debug\netcoreapp2.0\IncrementElement.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\bin\Debug\netcoreapp2.0\IncrementElement.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\obj\Debug\netcoreapp2.0\IncrementElement.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\obj\Debug\netcoreapp2.0\IncrementElement.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\obj\Debug\netcoreapp2.0\IncrementElement.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\obj\Debug\netcoreapp2.0\IncrementElement.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\IncrementElement\IncrementElement\obj\Debug\netcoreapp2.0\IncrementElement.pdb

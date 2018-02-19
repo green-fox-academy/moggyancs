@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\bin\Debug\netcoreapp2.0\ChangeElements.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\bin\Debug\netcoreapp2.0\ChangeElements.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\bin\Debug\netcoreapp2.0\ChangeElements.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\bin\Debug\netcoreapp2.0\ChangeElements.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\bin\Debug\netcoreapp2.0\ChangeElements.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\obj\Debug\netcoreapp2.0\ChangeElements.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\obj\Debug\netcoreapp2.0\ChangeElements.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\obj\Debug\netcoreapp2.0\ChangeElements.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\obj\Debug\netcoreapp2.0\ChangeElements.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\obj\Debug\netcoreapp2.0\ChangeElements.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\ChangeElements\ChangeElements\obj\Debug\netcoreapp2.0\ChangeElements.pdb

@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\bin\Debug\netcoreapp2.0\PrintAll.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\bin\Debug\netcoreapp2.0\PrintAll.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\bin\Debug\netcoreapp2.0\PrintAll.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\bin\Debug\netcoreapp2.0\PrintAll.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\bin\Debug\netcoreapp2.0\PrintAll.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\obj\Debug\netcoreapp2.0\PrintAll.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\obj\Debug\netcoreapp2.0\PrintAll.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\obj\Debug\netcoreapp2.0\PrintAll.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\obj\Debug\netcoreapp2.0\PrintAll.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\PrintAll\PrintAll\obj\Debug\netcoreapp2.0\PrintAll.pdb

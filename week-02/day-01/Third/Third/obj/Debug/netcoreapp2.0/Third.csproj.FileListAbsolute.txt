@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\bin\Debug\netcoreapp2.0\Third.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\bin\Debug\netcoreapp2.0\Third.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\bin\Debug\netcoreapp2.0\Third.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\bin\Debug\netcoreapp2.0\Third.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\bin\Debug\netcoreapp2.0\Third.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\obj\Debug\netcoreapp2.0\Third.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\obj\Debug\netcoreapp2.0\Third.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\obj\Debug\netcoreapp2.0\Third.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\obj\Debug\netcoreapp2.0\Third.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\obj\Debug\netcoreapp2.0\Third.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Third\Third\obj\Debug\netcoreapp2.0\Third.csprojResolveAssemblyReference.cache
