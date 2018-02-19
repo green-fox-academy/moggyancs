@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.pdb
