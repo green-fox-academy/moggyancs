@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.pdb
