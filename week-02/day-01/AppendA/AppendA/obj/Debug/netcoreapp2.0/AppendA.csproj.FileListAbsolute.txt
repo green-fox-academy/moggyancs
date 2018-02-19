@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\bin\Debug\netcoreapp2.0\AppendA.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\bin\Debug\netcoreapp2.0\AppendA.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\bin\Debug\netcoreapp2.0\AppendA.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\bin\Debug\netcoreapp2.0\AppendA.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\bin\Debug\netcoreapp2.0\AppendA.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\obj\Debug\netcoreapp2.0\AppendA.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\obj\Debug\netcoreapp2.0\AppendA.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\obj\Debug\netcoreapp2.0\AppendA.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\obj\Debug\netcoreapp2.0\AppendA.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\obj\Debug\netcoreapp2.0\AppendA.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-01\AppendA\AppendA\obj\Debug\netcoreapp2.0\AppendA.pdb
