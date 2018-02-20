@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\bin\Debug\netcoreapp2.0\06-ElementFinder.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\bin\Debug\netcoreapp2.0\06-ElementFinder.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\bin\Debug\netcoreapp2.0\06-ElementFinder.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\bin\Debug\netcoreapp2.0\06-ElementFinder.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\bin\Debug\netcoreapp2.0\06-ElementFinder.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\obj\Debug\netcoreapp2.0\06-ElementFinder.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\obj\Debug\netcoreapp2.0\06-ElementFinder.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\obj\Debug\netcoreapp2.0\06-ElementFinder.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\obj\Debug\netcoreapp2.0\06-ElementFinder.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\06-ElementFinder\06-ElementFinder\obj\Debug\netcoreapp2.0\06-ElementFinder.pdb

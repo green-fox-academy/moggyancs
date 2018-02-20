@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\bin\Debug\netcoreapp2.0\05-IsInList.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\bin\Debug\netcoreapp2.0\05-IsInList.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\bin\Debug\netcoreapp2.0\05-IsInList.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\bin\Debug\netcoreapp2.0\05-IsInList.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\bin\Debug\netcoreapp2.0\05-IsInList.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\obj\Debug\netcoreapp2.0\05-IsInList.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\obj\Debug\netcoreapp2.0\05-IsInList.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\obj\Debug\netcoreapp2.0\05-IsInList.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\obj\Debug\netcoreapp2.0\05-IsInList.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\obj\Debug\netcoreapp2.0\05-IsInList.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\05-IsInList\05-IsInList\obj\Debug\netcoreapp2.0\05-IsInList.pdb
