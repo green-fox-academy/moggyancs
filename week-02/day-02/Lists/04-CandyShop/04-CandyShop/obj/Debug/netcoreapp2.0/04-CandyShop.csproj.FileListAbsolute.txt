@@ -1,0 +1,10 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\obj\Debug\netcoreapp2.0\04-CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\obj\Debug\netcoreapp2.0\04-CandyShop.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\obj\Debug\netcoreapp2.0\04-CandyShop.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\bin\Debug\netcoreapp2.0\04-CandyShop.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\bin\Debug\netcoreapp2.0\04-CandyShop.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\bin\Debug\netcoreapp2.0\04-CandyShop.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\bin\Debug\netcoreapp2.0\04-CandyShop.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\bin\Debug\netcoreapp2.0\04-CandyShop.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\obj\Debug\netcoreapp2.0\04-CandyShop.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\04-CandyShop\04-CandyShop\obj\Debug\netcoreapp2.0\04-CandyShop.pdb
