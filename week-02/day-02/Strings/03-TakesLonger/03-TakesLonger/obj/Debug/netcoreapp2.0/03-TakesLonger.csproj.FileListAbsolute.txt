@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\bin\Debug\netcoreapp2.0\03-TakesLonger.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\bin\Debug\netcoreapp2.0\03-TakesLonger.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\bin\Debug\netcoreapp2.0\03-TakesLonger.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\bin\Debug\netcoreapp2.0\03-TakesLonger.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\bin\Debug\netcoreapp2.0\03-TakesLonger.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\obj\Debug\netcoreapp2.0\03-TakesLonger.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\obj\Debug\netcoreapp2.0\03-TakesLonger.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\obj\Debug\netcoreapp2.0\03-TakesLonger.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\obj\Debug\netcoreapp2.0\03-TakesLonger.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\obj\Debug\netcoreapp2.0\03-TakesLonger.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\03-TakesLonger\03-TakesLonger\obj\Debug\netcoreapp2.0\03-TakesLonger.pdb
