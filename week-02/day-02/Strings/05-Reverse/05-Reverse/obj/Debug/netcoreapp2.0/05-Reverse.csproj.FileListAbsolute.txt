@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\bin\Debug\netcoreapp2.0\05-Reverse.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\bin\Debug\netcoreapp2.0\05-Reverse.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\bin\Debug\netcoreapp2.0\05-Reverse.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\bin\Debug\netcoreapp2.0\05-Reverse.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\bin\Debug\netcoreapp2.0\05-Reverse.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\obj\Debug\netcoreapp2.0\05-Reverse.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\obj\Debug\netcoreapp2.0\05-Reverse.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\obj\Debug\netcoreapp2.0\05-Reverse.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\obj\Debug\netcoreapp2.0\05-Reverse.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\obj\Debug\netcoreapp2.0\05-Reverse.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\05-Reverse\05-Reverse\obj\Debug\netcoreapp2.0\05-Reverse.pdb

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace _03_TakesLonger
 {
@@ -11,10 +12,13 @@ namespace _03_TakesLonger
             // When saving this quote a disk error has occured. Please fix it.
             // Add "always takes longer than" to the StringBuilder (quote) between the words "It" and "you"
             // Using pieces of the quote variable (instead of just redefining the string)
-            System.Text.StringBuilder sb = new System.Text.StringBuilder;
 
+            StringBuilder quote2 = new StringBuilder();
+            quote2.Append(quote);
+            quote2.Insert(quote.IndexOf("you"), "always takes longer than ");
 
             Console.WriteLine(quote);
+            Console.WriteLine(quote2);
             Console.ReadLine();
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\bin\Debug\netcoreapp2.0\04-ToDoPrint.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\bin\Debug\netcoreapp2.0\04-ToDoPrint.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\bin\Debug\netcoreapp2.0\04-ToDoPrint.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\bin\Debug\netcoreapp2.0\04-ToDoPrint.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\bin\Debug\netcoreapp2.0\04-ToDoPrint.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\obj\Debug\netcoreapp2.0\04-ToDoPrint.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\obj\Debug\netcoreapp2.0\04-ToDoPrint.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\obj\Debug\netcoreapp2.0\04-ToDoPrint.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\obj\Debug\netcoreapp2.0\04-ToDoPrint.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\obj\Debug\netcoreapp2.0\04-ToDoPrint.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Strings\04-ToDoPrint\04-ToDoPrint\obj\Debug\netcoreapp2.0\04-ToDoPrint.pdb
