@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\bin\Debug\netcoreapp2.0\07.QuoteSwap.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\bin\Debug\netcoreapp2.0\07.QuoteSwap.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\bin\Debug\netcoreapp2.0\07.QuoteSwap.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\bin\Debug\netcoreapp2.0\07.QuoteSwap.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\bin\Debug\netcoreapp2.0\07.QuoteSwap.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\obj\Debug\netcoreapp2.0\07.QuoteSwap.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\obj\Debug\netcoreapp2.0\07.QuoteSwap.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\obj\Debug\netcoreapp2.0\07.QuoteSwap.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\obj\Debug\netcoreapp2.0\07.QuoteSwap.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\obj\Debug\netcoreapp2.0\07.QuoteSwap.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\07.QuoteSwap\07.QuoteSwap\obj\Debug\netcoreapp2.0\07.QuoteSwap.pdb
