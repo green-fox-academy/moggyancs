@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\bin\Debug\netcoreapp2.0\01-SolarSystem.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\bin\Debug\netcoreapp2.0\01-SolarSystem.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\bin\Debug\netcoreapp2.0\01-SolarSystem.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\bin\Debug\netcoreapp2.0\01-SolarSystem.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\bin\Debug\netcoreapp2.0\01-SolarSystem.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\obj\Debug\netcoreapp2.0\01-SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\obj\Debug\netcoreapp2.0\01-SolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\obj\Debug\netcoreapp2.0\01-SolarSystem.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\obj\Debug\netcoreapp2.0\01-SolarSystem.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\obj\Debug\netcoreapp2.0\01-SolarSystem.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\01-SolarSystem\01-SolarSystem\obj\Debug\netcoreapp2.0\01-SolarSystem.pdb
