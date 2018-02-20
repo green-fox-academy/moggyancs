@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\bin\Debug\netcoreapp2.0\02-Matchmaking.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\bin\Debug\netcoreapp2.0\02-Matchmaking.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\bin\Debug\netcoreapp2.0\02-Matchmaking.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\bin\Debug\netcoreapp2.0\02-Matchmaking.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\bin\Debug\netcoreapp2.0\02-Matchmaking.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\obj\Debug\netcoreapp2.0\02-Matchmaking.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\obj\Debug\netcoreapp2.0\02-Matchmaking.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\obj\Debug\netcoreapp2.0\02-Matchmaking.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\obj\Debug\netcoreapp2.0\02-Matchmaking.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\obj\Debug\netcoreapp2.0\02-Matchmaking.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\02-Matchmaking\02-Matchmaking\obj\Debug\netcoreapp2.0\02-Matchmaking.pdb

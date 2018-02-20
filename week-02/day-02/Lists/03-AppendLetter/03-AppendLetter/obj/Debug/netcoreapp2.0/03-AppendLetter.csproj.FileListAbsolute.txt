@@ -1,0 +1,11 @@
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\bin\Debug\netcoreapp2.0\03-AppendLetter.deps.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\bin\Debug\netcoreapp2.0\03-AppendLetter.runtimeconfig.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\bin\Debug\netcoreapp2.0\03-AppendLetter.runtimeconfig.dev.json
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\bin\Debug\netcoreapp2.0\03-AppendLetter.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\bin\Debug\netcoreapp2.0\03-AppendLetter.pdb
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\obj\Debug\netcoreapp2.0\03-AppendLetter.csprojResolveAssemblyReference.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\obj\Debug\netcoreapp2.0\03-AppendLetter.csproj.CoreCompileInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\obj\Debug\netcoreapp2.0\03-AppendLetter.AssemblyInfoInputs.cache
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\obj\Debug\netcoreapp2.0\03-AppendLetter.AssemblyInfo.cs
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\obj\Debug\netcoreapp2.0\03-AppendLetter.dll
+C:\Users\moggy\greenfox\moggyancs\week-02\day-02\Lists\03-AppendLetter\03-AppendLetter\obj\Debug\netcoreapp2.0\03-AppendLetter.pdb
