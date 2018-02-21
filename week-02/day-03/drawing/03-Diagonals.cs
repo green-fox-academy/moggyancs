@@ -23,7 +23,7 @@ namespace Drawings
         public MainWindow()
         {
             InitializeComponent();
-            var foxDraw = new foxDraw(canvas);
+            var FoxDraw = new foxDraw(canvas);
 
             // Draw the canvas' diagonals.
             // If it starts from the upper-left corner it should be green, otherwise it should be red.

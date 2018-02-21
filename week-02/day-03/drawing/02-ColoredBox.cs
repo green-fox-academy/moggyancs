@@ -23,7 +23,7 @@ namespace Drawings
         public MainWindow()
         {
             InitializeComponent();
-            var foxDraw = new FoxDraw(canvas);
+            var FoxDraw = new FoxDraw(canvas);
 
 
             // Draw a box that has different colored lines on each edge.

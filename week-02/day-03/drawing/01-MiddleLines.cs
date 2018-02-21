@@ -23,7 +23,7 @@ namespace Drawings
         public MainWindow()
         {
             InitializeComponent();
-            var foxDraw = new FoxDraw(canvas);
+            var FoxDraw = new FoxDraw(canvas);
             // draw a red horizontal line to the canvas' middle.
             // draw a green vertical line to the canvas' middle.
 

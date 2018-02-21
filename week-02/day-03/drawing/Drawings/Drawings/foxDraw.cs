@@ -6,13 +6,13 @@ using System.Windows.Shapes;
 
 namespace Drawings
 {
-    class foxDraw
+    class FoxDraw
     {
         private Canvas Canvas { get; set; }
         private SolidColorBrush LineColor { get; set; } = SystemColors.WindowFrameBrush;
         private SolidColorBrush ShapeColor { get; set; } = new SolidColorBrush(Colors.DarkGreen);
 
-        public foxDraw(Canvas canvas)
+        public FoxDraw(Canvas canvas)
         {
             Canvas = canvas;
         }

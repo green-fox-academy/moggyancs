@@ -20,21 +20,29 @@ namespace Drawings
     /// </summary>
     public partial class MainWindow : Window
     {
+
         public MainWindow()
         {
             InitializeComponent();
-            var foxDraw = new foxDraw(canvas);
+            var foxDraw = new FoxDraw(canvas);
+            // Create a line drawing function that takes 2 parameters:
+            // The x and y coordinates of the line's starting point
+            // and draws a line from that point to the center of the canvas.
+            // Draw 3 lines with that function. Use loop for that.
 
-            // Draw the canvas' diagonals.
-            // If it starts from the upper-left corner it should be green, otherwise it should be red.
+            double a = 0;
+            double b = 0;
 
-         
-            foxDraw.StrokeColor(Colors.Green);
-            foxDraw.DrawLine(0, 0, canvas.Width, canvas.Height);
+            for (int i = 0; i < 50; i++)
+            {
+                foxDraw.DrawLine(a, b, canvas.Width / 2, canvas.Height / 2);
+                a += 10;
 
-            foxDraw.StrokeColor(Colors.Red);
-            foxDraw.DrawLine( 0, canvas.Height, canvas.Width, 0);
+            }
+
 
         }
+
+
     }
 }
