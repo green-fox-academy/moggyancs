@@ -43,8 +43,8 @@ namespace Drawings
 
         }
 
-        public static void ToTheCenter(FoxDraw foxDraw, double x, double y, int lines, double canvasW, double canvasH)
-        {
+        private void ToTheCenter(FoxDraw foxDraw, double x, double y, int lines, double canvasW, double canvasH)
+        { 
             for (int i = 0; i < lines; i++)
             {
                 foxDraw.DrawLine(x, y, canvasW / 2, canvasH / 2);
