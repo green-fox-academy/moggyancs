@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace _01_MiddleLines
+namespace Drawings
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
