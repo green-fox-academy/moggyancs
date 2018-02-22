@@ -27,41 +27,42 @@ namespace Drawings
             InitializeComponent();
             var foxDraw = new FoxDraw(canvas);
 
-            int many = 4;
-            CheckerIt(foxDraw, many);
+            int many = 3;
+            FillWithBoxes(foxDraw, many);
         }
 
-        private void CheckerIt(FoxDraw foxDraw, int boxes)
+        private void FillWithBoxes(FoxDraw foxDraw, int boxes)
         {
 
             foxDraw.FillColor(Colors.Black);
             double size = canvas.Height / boxes;
 
-            //foxDraw.DrawLine(0, 0, 0, size * boxes);
-            //foxDraw.DrawLine(0, 0, size * boxes, 0);
-            //foxDraw.DrawLine(size * boxes, 0, size * boxes, size * boxes);
-            //foxDraw.DrawLine(0, size * boxes, size * boxes, size * boxes);
-
             for (int i = 0; i < boxes; i++)
             {
                 for (int j = 0; j < boxes; j++)
                 {
-                    foxDraw.DrawRectangle(i * size, j * size, size, size);
-                    PlayWithLines(foxDraw, canvas.Width / boxes, size / 12 );
-
+                    PlayWithLines(foxDraw, canvas.Width / boxes, size / 12, boxes);
                 }
             }
         }
-        private void PlayWithLines(FoxDraw foxDraw, double sizeMini, double distance)
+        private void PlayWithLines(FoxDraw foxDraw, double sizeMini, double distance, int boxes)
         {
-            for (double i = 0; i < sizeMini - distance; i += distance)
+            for (int k = 0; k < boxes; k++)
             {
-                foxDraw.StrokeColor(Colors.Purple);
-                foxDraw.DrawLine(i + distance, 0, sizeMini, i + distance);
-                foxDraw.StrokeColor(Colors.Green);
-                foxDraw.DrawLine(0, i + distance, i + distance, sizeMini);
-            }
+                for (int j = 0; j < boxes; j++)
+                {
+                    for (double i = 0; i < sizeMini - distance; i += distance)
+                    {
+                        foxDraw.StrokeColor(Colors.Purple);
+                        foxDraw.DrawLine(j * sizeMini + i + distance,k * sizeMini + 0, j * sizeMini + sizeMini, k * sizeMini + i + distance);
+                        foxDraw.StrokeColor(Colors.Green);
+                        foxDraw.DrawLine(j * sizeMini + 0, k * sizeMini + i + distance, j * sizeMini + i + distance, k * sizeMini + sizeMini);
 
+                    }
+                
+                }
+
+            }
 
         }
 
