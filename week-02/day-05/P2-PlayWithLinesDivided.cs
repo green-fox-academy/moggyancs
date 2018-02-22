@@ -26,60 +26,47 @@ namespace Drawings
         {
             InitializeComponent();
             var foxDraw = new FoxDraw(canvas);
-            //Lineplay: set the distance and the color of the lines
 
-            double distance = 10;       // set the distance between lines
-            List<Color> colours = new List<Color> { Colors.Purple, Colors.Green }; // set two colours
-            int columns = 2;            // how many blocks per row
-
-            DrawTheLines(foxDraw, distance, colours, columns);
+            int many = 4;
+            CheckerIt(foxDraw, many);
         }
-        private void DrawTheLines(FoxDraw foxDraw, double distance, List<Color> colour, int blocks)
+
+        private void CheckerIt(FoxDraw foxDraw, int boxes)
         {
-            //DivideScreen(foxDraw, blocks);
-            for (int j = 0; j < blocks; j++)
+
+            foxDraw.FillColor(Colors.Black);
+            double size = canvas.Height / boxes;
+
+            //foxDraw.DrawLine(0, 0, 0, size * boxes);
+            //foxDraw.DrawLine(0, 0, size * boxes, 0);
+            //foxDraw.DrawLine(size * boxes, 0, size * boxes, size * boxes);
+            //foxDraw.DrawLine(0, size * boxes, size * boxes, size * boxes);
+
+            for (int i = 0; i < boxes; i++)
             {
-                for (double i = 0; i < canvas.Width / blocks - distance; i += distance) // topleft part
+                for (int j = 0; j < boxes; j++)
                 {
-                    foxDraw.StrokeColor(colour[0]);
-                    foxDraw.DrawLine(i + distance, 0, canvas.Width / blocks, i + distance); // topright
-                    foxDraw.StrokeColor(colour[1]);
-                    foxDraw.DrawLine(0, i + distance, i + distance, canvas.Width / blocks); // bottomleft
-                }
+                    foxDraw.DrawRectangle(i * size, j * size, size, size);
+                    PlayWithLines(foxDraw, canvas.Width / boxes, size / 12 );
 
-                for (double i = 0; i < canvas.Width / blocks - distance; i += distance) // topright part
-                {
-                    foxDraw.StrokeColor(colour[0]);
-                    foxDraw.DrawLine(canvas.Width / blocks + i + distance, 0, canvas.Width, i + distance); // topright
-                    foxDraw.StrokeColor(colour[1]);
-                    foxDraw.DrawLine(canvas.Width / blocks, i + distance, canvas.Width / blocks + i + distance, canvas.Width / blocks); // bottomleft
                 }
-
-                for (double i = 0; i < canvas.Width / blocks - distance; i += distance) // bottomleft part
-                {
-                    foxDraw.StrokeColor(colour[0]);
-                    foxDraw.DrawLine(i + distance, canvas.Height / blocks, canvas.Width / blocks, canvas.Height / blocks + i + distance); // topright
-                    foxDraw.StrokeColor(colour[1]);
-                    foxDraw.DrawLine(0, canvas.Height / blocks + i + distance, i + distance, canvas.Height); // bottomleft
-                }
-
-                for (double i = 0; i < canvas.Width / blocks - distance; i += distance) // bottomright  part
-                {
-                    foxDraw.StrokeColor(colour[0]);
-                    foxDraw.DrawLine(canvas.Width / blocks + i + distance, canvas.Height / blocks, canvas.Width, canvas.Height / blocks + i + distance); // topright
-                    foxDraw.StrokeColor(colour[1]);
-                    foxDraw.DrawLine(canvas.Width / blocks, canvas.Height / blocks + i + distance, canvas.Width / blocks + i + distance, canvas.Height); // bottomleft
-                }
-                
-
+            }
+        }
+        private void PlayWithLines(FoxDraw foxDraw, double sizeMini, double distance)
+        {
+            for (double i = 0; i < sizeMini - distance; i += distance)
+            {
+                foxDraw.StrokeColor(Colors.Purple);
+                foxDraw.DrawLine(i + distance, 0, sizeMini, i + distance);
+                foxDraw.StrokeColor(Colors.Green);
+                foxDraw.DrawLine(0, i + distance, i + distance, sizeMini);
             }
 
-        }
 
-     
+        }
 
 
 
 
     }
- }
+}
