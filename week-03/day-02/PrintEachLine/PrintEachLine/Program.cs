@@ -14,7 +14,7 @@ namespace PrintEachLine
 
             try
             {
-            StreamReader myReader = new StreamReader("myfile.txt");
+            StreamReader myReader = new StreamReader("myfile.txt"); //myfile.txt does not exist, my-file.txt does.
             string line = "";
                 while (line != null)
                 {

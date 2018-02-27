@@ -12,7 +12,7 @@ namespace CountTheLines
             // It should return zero if it can't open the file, and
             // should not raise any error.
 
-            string filename = "myfile.txt";
+            string filename = "myfile.txt"; //myfile.txt does not exist, my-file.txt does.
             CountTheLines(filename);
             //CountTheLinesB(filename); - var lineCount = File.ReadLines(@"C:\file.txt").Count();
         }
