@@ -24,7 +24,7 @@ namespace DuplicatedChars
             {
                  for (int i = 0; i < line.Length; i++)
                 {
-                    if ( i % 2 != 0)
+                    if ( i % 2 != 0 || line[i] == '\n')
                     {
                         uniqueChars.Add(line[i]);
                         if (i == line.Length - 1)
