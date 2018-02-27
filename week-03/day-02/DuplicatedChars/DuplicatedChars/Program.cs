@@ -22,12 +22,12 @@ namespace DuplicatedChars
 
             foreach (var line in poemLines)
             {
-                for (int i = 0; i < line.Length; i++)
+                 for (int i = 0; i < line.Length; i++)
                 {
-                    if ( i % 2 == 0)
+                    if ( i % 2 != 0)
                     {
                         uniqueChars.Add(line[i]);
-                        if (i == line.Length - 2)
+                        if (i == line.Length - 1)
                         {
                             uniqueChars.Add('\n');
                         }
