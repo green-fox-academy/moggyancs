@@ -16,7 +16,6 @@ namespace Domino
 
             var snake = new List<Domino>();
             snake.Add(dominoes[0]);
-            //how to write out the valueA and the valueB of the first stone?
 
             for (int i = 0; i < dominoes.Count / 2; i++)
             {
@@ -29,10 +28,6 @@ namespace Domino
                 }
 
             }
-            Console.WriteLine(string.Join("+", snake[0].GetValues()[0]));
-
-
-
 
             foreach (var stone in dominoes)
             {
