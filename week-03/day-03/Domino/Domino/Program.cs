@@ -14,12 +14,22 @@ namespace Domino
             // Create a function to write the dominous to the console in the following format
             // eg: [2, 4], [4, 3], [3, 5] ...
 
-            var dominoSnake = dominoes;
-            foreach (var domino in dominoSnake)
+            var snake = new List<Domino>();
+            snake.Add(dominoes[0]);
+            //how to write out the valueA and the valueB of the first stone?
+
+            for (int i = 0; i < dominoes.Count / 2; i++)
             {
+                foreach (var stone in dominoes)
+                {
+                    if (stone.GetValues()[0] == snake[snake.Count-1].GetValues()[1])
+                    {
+                        snake.Add(stone);
+                    }
+                }
 
             }
-
+            Console.WriteLine(string.Join("+", snake[0].GetValues()[0]));
 
 
 
@@ -29,18 +39,16 @@ namespace Domino
                 Console.Write("[" + string.Join(",", stone.GetValues()) + "] ");
             }
 
-            //foreach (var stone in sortedDominoes)
-            //{
-            //    Console.Write("[" + string.Join(",", stone.GetValues()) + "] ");
-            //}
+            Console.WriteLine();
+            foreach (var stone in snake)
+            {
+                Console.Write("[" + string.Join(",", stone.GetValues()) + "] ");
+            }
             Console.ReadLine();
             
 
         }
-        //public static List<Domino> SortDominoes()
-        //{
-
-        //}
+       
 
         public static List<Domino> InitializeDominoes()
         {

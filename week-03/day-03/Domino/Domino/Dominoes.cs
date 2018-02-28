@@ -4,14 +4,14 @@ namespace Domino
 {
     public class Domino
     {
-        private readonly int[] Values; // Values is an int type array
+        private readonly int[] Values; 
 
-        public Domino(int valueA, int valueB) // this is a constructor
+        public Domino(int valueA, int valueB) 
         {
-            this.Values = new int[] { valueA, valueB }; // creates the array of the array of numberpairs
+            this.Values = new int[] { valueA, valueB }; 
         }
 
-        public int[] GetValues() // allows to access the value pairs
+        public int[] GetValues() 
         {
             return Values;
         }
