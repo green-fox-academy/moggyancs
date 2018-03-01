@@ -23,11 +23,11 @@ namespace _07.Strings
             }
             else if (s.Substring(0,1) == "x")
             {
-                return "y" + XtoY(s.Substring(1,s.Length-1));
+                return "y" + XtoY(s.Substring(1));
             }
             else
             {
-                return s.Substring(0,1) + XtoY(s.Substring(1, s.Length-1));
+                return s.Substring(0,1) + XtoY(s.Substring(1));
             }
 
         }
