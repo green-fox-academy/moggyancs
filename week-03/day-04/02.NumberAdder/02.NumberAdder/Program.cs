@@ -7,7 +7,10 @@ namespace _02.NumberAdder
         static void Main(string[] args)
         {
             // Write a recursive function that takes one parameter: n and adds numbers from 1 to n.
-            Console.WriteLine(NumberAdder(6));
+
+            int n = 6;
+
+            Console.WriteLine(NumberAdder(n));
             Console.ReadLine();
         }
 

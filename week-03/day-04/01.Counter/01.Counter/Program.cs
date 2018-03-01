@@ -7,7 +7,10 @@ namespace _01.Counter
         static void Main(string[] args)
         {
             // Write a recursive function that takes one parameter: n and counts down from n.
-            Console.WriteLine(CountDown(10));
+
+            int n = 10;
+
+            Console.WriteLine(CountDown(n));
             Console.Read();
         }
 
