@@ -6,8 +6,7 @@ namespace _07.Strings
     {
         static void Main(string[] args)
         {
-            // Given a string, compute recursively (no loops) a new string where all the
-            // lowercase 'x' chars have been changed to 'y' chars.
+            // Given a string, compute recursively a new string where all the 'x' chars have been removed.
 
             string myString = "x-flxboxs-x";
             Console.WriteLine(XtoY(myString));
