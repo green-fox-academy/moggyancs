@@ -27,7 +27,7 @@ namespace GreenFox
 
         public override void Introduce()
         {
-            Console.WriteLine("Hi, I'm {0}, a {1} years old {2} who represents {3}. I have hired {4} students so far.", name, age, gender, company, hiredStudents);
+            Console.WriteLine("Hi, I'm {0}, a {1} years old {2} who represents {3} and  hired {4} students so far.", name, age, gender, company, hiredStudents);
         }
 
         public override void GetGoal()
