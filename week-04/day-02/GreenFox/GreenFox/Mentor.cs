@@ -20,12 +20,12 @@ namespace GreenFox
 
         public override void GetGoal()
         {
-            Console.WriteLine("My goal is: 6Educate brilliant junior software developers.");
+            Console.WriteLine("My goal is: Educate brilliant junior software developers.");
         }
 
         public override void Introduce()
         {
-            Console.WriteLine("Hi, I'm {0}, a {1} years old {2}, {3} level mentor.", name, age, gender, level);
+            Console.WriteLine("Hi, I'm {0}, a {1} years old {2}, {3} mentor.", name, age, gender, level);
         }
     }
 }
