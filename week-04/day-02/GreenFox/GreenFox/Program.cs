@@ -43,6 +43,13 @@ namespace GreenFox
                 person.GetGoal();
             }
 
+            Cohort awesome = new Cohort("AWESOME");
+            awesome.AddStudent(student);
+            awesome.AddStudent(john);
+            awesome.AddMentor(mentor);
+            awesome.AddMentor(gandhi);
+            awesome.Info();
+
 
             Console.ReadLine();
         }
