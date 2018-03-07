@@ -8,6 +8,7 @@ namespace w04d03e02Comparator
         static void Main(string[] args)
         {
             List<Domino> dominoes = new List<Domino>();
+            dominoes.Add(new Domino(5, 7));
             dominoes.Add(new Domino(5, 2));
             dominoes.Add(new Domino(4, 6));
             dominoes.Add(new Domino(1, 5));
@@ -15,11 +16,19 @@ namespace w04d03e02Comparator
             dominoes.Add(new Domino(2, 4));
             dominoes.Add(new Domino(7, 1));
 
-            //var sorted = new List<Domino>();
-
+            foreach (var domino in dominoes)
+            {
+                Console.Write("[" + string.Join(",", domino.GetValues()) + "]");
+            }
             dominoes.Sort();
 
-            Console.WriteLine(string.Join(" ", dominoes));
+            Console.WriteLine();
+
+            foreach (var domino in dominoes)
+            {
+            Console.Write("[" + string.Join(",", domino.GetValues()) + "]");
+            }
+
             Console.ReadLine();
         }
     }
