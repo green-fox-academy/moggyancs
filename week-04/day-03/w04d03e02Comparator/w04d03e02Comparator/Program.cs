@@ -16,20 +16,21 @@ namespace w04d03e02Comparator
             dominoes.Add(new Domino(2, 4));
             dominoes.Add(new Domino(7, 1));
 
+            Print(dominoes);
+            dominoes.Sort();
+            Print(dominoes);
+            
+            Console.ReadLine();
+        }
+
+        public static void Print(List<Domino> dominoes)
+        {
             foreach (var domino in dominoes)
             {
                 Console.Write("[" + string.Join(",", domino.GetValues()) + "]");
             }
-            dominoes.Sort();
-
             Console.WriteLine();
-
-            foreach (var domino in dominoes)
-            {
-            Console.Write("[" + string.Join(",", domino.GetValues()) + "]");
-            }
-
-            Console.ReadLine();
         }
+
     }
 }
