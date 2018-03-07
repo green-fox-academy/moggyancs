@@ -14,20 +14,22 @@ namespace w04d03e02Comparator
 
         public int CompareTo(Domino other)
         {
-            //if (Values[0] != other.Values[0])
-            //{
-                return Values[0].CompareTo(other.Values[1]);
-            //}
-            //else
-            //{
-            //    return Values[1].CompareTo(other.Values[1]);
-            //}
+            if (Values[0] != other.Values[0])
+            {
+                return Values[0].CompareTo(other.Values[0]);
+            }
+            else
+            {
+                return Values[1].CompareTo(other.Values[1]);
+            }
         }
 
         public int[] GetValues() 
         {
             return Values;
         }
+
+      
 
     }
 }
