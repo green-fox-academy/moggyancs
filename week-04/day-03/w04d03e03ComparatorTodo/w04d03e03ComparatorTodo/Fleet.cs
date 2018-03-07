@@ -21,6 +21,5 @@ namespace w04d03e03ComparatorTodo
         {
             return Things;
         }
-
     }
 }

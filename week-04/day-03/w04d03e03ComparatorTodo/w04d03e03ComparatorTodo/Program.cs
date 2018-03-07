@@ -6,7 +6,6 @@ namespace w04d03e03ComparatorTodo
     {
         static void Main(string[] args)
         {
-
             var fleet = new Fleet();
 
             // Create a fleet of things to have this output:
@@ -24,15 +23,11 @@ namespace w04d03e03ComparatorTodo
             fleet.Add(new Thing("Walk my dog"));
             fleet.Add(new Thing("Make coffee"));
 
-
             fleet.GetList()[3].Complete();
             fleet.GetList()[2].Complete();
             fleet.GetList()[5].Complete();
 
-
-            Print(fleet);
             fleet.Things.Sort();
-
             Print(fleet);
         }
 
@@ -50,10 +45,8 @@ namespace w04d03e03ComparatorTodo
                     status = " ";
                 }
                 Console.WriteLine(i + 1 + ". [" + status + "]" + fleet.GetList()[i].GetName());
-
             }
             Console.ReadLine();
-
         }
     }
 }
