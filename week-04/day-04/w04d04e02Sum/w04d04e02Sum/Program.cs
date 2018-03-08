@@ -12,12 +12,19 @@ namespace w04d04e02Sum
 
         public int Sum(List<int> numbers)
         {
-            int value = 0;
-            foreach (var number in numbers)
+            try
             {
-                value += number;
+                int value = 0;
+                foreach (var number in numbers)
+                {
+                    value += number;
+                }
+                return value;
             }
-            return value;
+            catch (NullReferenceException)
+            {
+                return 0;
+            }
         }
     }
 

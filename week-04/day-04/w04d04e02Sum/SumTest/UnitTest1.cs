@@ -37,6 +37,14 @@ namespace SumTest
             Assert.AreEqual(30, program.Sum(ManyNumbers));
         }
 
-        
+        [TestCase]
+        public void NullList()
+        {
+            var program = new Program();
+
+            List<int> Null = null;
+
+            Assert.AreEqual(0, program.Sum(Null));
+        }
     }
 }
