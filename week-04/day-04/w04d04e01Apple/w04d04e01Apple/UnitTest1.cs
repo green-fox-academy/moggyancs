@@ -12,7 +12,7 @@ namespace w04d04e01Apple
             Fruit apple = new Fruit("apple");
 
             //Act + Assert
-            Assert.AreEqual("This is an apple", apple.GetFruit());
+            Assert.AreEqual("Hey, apple!", apple.GetFruit());
         }
     }
 }
