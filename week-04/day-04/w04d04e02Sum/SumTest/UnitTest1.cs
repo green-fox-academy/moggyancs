@@ -16,5 +16,27 @@ namespace SumTest
 
             Assert.AreEqual(6, program.Sum(TwoNumbers));
         }
+
+        [TestCase]
+        public void EmptyList()
+        {
+            var program = new Program();
+
+            List<int> EmptyList = new List<int>() { };
+
+            Assert.AreEqual(0, program.Sum(EmptyList));
+        }
+
+        [TestCase]
+        public void MultipleNumbers()
+        {
+            var program = new Program();
+
+            List<int> ManyNumbers = new List<int>() {2, 4, 6, 8, 10 };
+
+            Assert.AreEqual(30, program.Sum(ManyNumbers));
+        }
+
+        
     }
 }
