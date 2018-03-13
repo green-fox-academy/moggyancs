@@ -18,6 +18,7 @@ namespace _29.DrawPyramid
             // The pyramid should have as many lines as the number was
             Console.WriteLine("How tall is my pyramid?");
             int height = int.Parse(Console.ReadLine());
+            string stars = "*";
 
             for (int i = 0; i < height; i++)
             {
@@ -25,13 +26,12 @@ namespace _29.DrawPyramid
                 {
                     Console.Write(" ");
                 }
-                Console.Write("*");
-
-                for (int j = 1; j <= i; j++ )
-                    {
-                        Console.Write("**");
-                    }                
+                for (int j = 0; j <= i / height; j++ )
+                {
+                    Console.Write(stars);
+                }                
                 Console.WriteLine();
+                stars += "**";
             }
             Console.ReadLine();
         }
