@@ -17,7 +17,7 @@ namespace ParametricAverage
             Console.WriteLine("How many numbers will there be?");
             int turns = int.Parse(Console.ReadLine());
 
-            int sum = 0;
+            double sum = 0;
             for (int i = 0; i < turns; i++)
             {
                 Console.WriteLine($"Give me number #{i+1}");
