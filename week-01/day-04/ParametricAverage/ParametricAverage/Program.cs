@@ -19,7 +19,7 @@ namespace ParametricAverage
             double sum = 0;
             for (int i = 0; i < turns; i++)
             {
-                Console.WriteLine($"Give me number #{i+1}");
+                Console.Write($"Give me number #{i+1}: ");
                 sum += int.Parse(Console.ReadLine());
             }
 
