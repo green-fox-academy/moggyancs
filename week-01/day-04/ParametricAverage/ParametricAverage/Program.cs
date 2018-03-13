@@ -13,7 +13,6 @@ namespace ParametricAverage
             //
             // Sum: 22, Average: 4.4
 
-            
             Console.WriteLine("How many numbers will there be?");
             int turns = int.Parse(Console.ReadLine());
 
