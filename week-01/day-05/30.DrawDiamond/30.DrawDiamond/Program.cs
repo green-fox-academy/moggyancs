@@ -20,50 +20,41 @@ namespace _30.DrawDiamond
             //
             // The diamond should have as many lines as the number was
 
-
             Console.WriteLine("How big is my diamond?");
             int height = int.Parse(Console.ReadLine());
+            string stars = "*";
 
-            for (int i = 0; i < height/2; i++)
+            for (int i = 0; i < height / 2; i++)
             {
-                for (int k = height - i; k > 1; k--)
+                for (int k = 0; k < height / 2 - i; k++)
                 {
                     Console.Write(" ");
                 }
-                Console.Write("*");
-
-                for (int j = 1; j <= i; j++)
+                for (int j = 0; j <= i / height; j++)
                 {
-                    Console.Write("**");
+                    Console.Write(stars);
                 }
                 Console.WriteLine();
+                stars += "**";
+            }
+            if (height % 2 == 1)
+            {
+                Console.WriteLine(stars);
             }
             for (int i = 0; i < height / 2; i++)
             {
-                
-                for (int j = 1; j <= i; j++)
-                {
-                    Console.Write("**");
-                }
-                Console.WriteLine();
-
-                for (int k = height - i; k > 1; k--)
+                for (int k = 0; k <= i ; k++)
                 {
                     Console.Write(" ");
                 }
-
-                Console.Write("*");
-
+                stars = stars.Substring(2);
+                for (int j = 0; j <= i / height; j++)
+                {
+                    Console.Write(stars);
+                }
+                Console.WriteLine();
             }
-
-
-
-
-
             Console.ReadLine();
-            {
-
-            }
         }
     }
 }
