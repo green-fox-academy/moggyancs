@@ -56,7 +56,10 @@ namespace Pirates
                 awake = false;
             }
         }
-
+        public void WakeUp()
+        {
+            awake = true;
+        }
         public bool IsAwake()
         {
             return awake;
