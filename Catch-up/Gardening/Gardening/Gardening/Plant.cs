@@ -21,6 +21,5 @@ namespace Gardening
         public virtual void Watering(double waterAmount) { }
         public abstract bool NeedsWater();
         public abstract string Status();
-        
     }
 }

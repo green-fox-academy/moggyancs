@@ -15,7 +15,7 @@ namespace Gardening
 
         public override string Status()
         {
-            return ($"The Flower" + (WaterLevel < 5 ? " needs water" : " does not need water") + WaterLevel);
+            return ($"The {this.Colour} Flower" + (WaterLevel < 5 ? " needs water" : " does not need water"));
         }
 
         public override bool NeedsWater()
@@ -23,5 +23,4 @@ namespace Gardening
             return WaterLevel <= 5;
         }
     }
-
 }

@@ -14,21 +14,22 @@ namespace Gardening
         }
 
         public void Irrigation (double WaterAmount)
-        {
+        { 
             Console.WriteLine($"Watering with {WaterAmount} \n");
-            List<Plant> ToBeWatered = new List<Plant>();
+            List<Plant> WillGetWater = new List<Plant>();
+
             foreach (var plant in MyGarden)
             {
                 if (plant.NeedsWater())
                 {
-                ToBeWatered.Add(plant);
+                WillGetWater.Add(plant);
                 }
             }
-            foreach (var plant in ToBeWatered)
+
+            foreach (var plant in WillGetWater)
             {
-                plant.Watering(WaterAmount / ToBeWatered.Count);
+                plant.Watering(WaterAmount / WillGetWater.Count);
             }
-            ToBeWatered.RemoveAll(DoesItNeedWater);
         }
 
         public bool DoesItNeedWater(Plant plant)
@@ -42,7 +43,7 @@ namespace Gardening
             {
                 Console.WriteLine(plant.Status());
             }
-                Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }

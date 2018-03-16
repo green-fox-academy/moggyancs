@@ -15,12 +15,12 @@ namespace Gardening
 
         public override string Status()
         {
-            return ("The Tree" + (WaterLevel < 10 ? " needs water" : " does not need water") + WaterLevel);
+            return ($"The {this.Colour} Tree" + (WaterLevel < 10 ? " needs water" : " does not need water"));
         }
 
         public override bool NeedsWater()
         {
-           return WaterLevel <= 10;
+            return WaterLevel <= 10;
         }
     }
 }
