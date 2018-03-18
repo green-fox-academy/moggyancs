@@ -6,21 +6,10 @@ namespace Gardening
 {
     class Flower : Plant
     {
-        public Flower(string color) : base(color) { }
-
-        public override void Watering(double waterAmount)
+        public Flower(string color) : base(color)
         {
-            WaterLevel += waterAmount * 0.75;
-        }
-
-        public override string Status()
-        {
-            return ($"The {this.Colour} Flower" + (WaterLevel < 5 ? " needs water" : " does not need water"));
-        }
-
-        public override bool NeedsWater()
-        {
-            return WaterLevel <= 5;
+            criticalWaterLevel = 5;
+            waterAbsorb = 0.75;
         }
     }
 }

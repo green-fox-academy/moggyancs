@@ -6,8 +6,10 @@ namespace Gardening
 {
     abstract class Plant
     {
-        string colour;
-        double waterLevel;
+        protected string colour;
+        protected double waterLevel;
+        protected double waterAbsorb;
+        protected double criticalWaterLevel;
 
         protected Plant(string color)
         {
@@ -18,8 +20,19 @@ namespace Gardening
         public string Colour { get => colour; set => colour = value; }
         public double WaterLevel { get => waterLevel; set => waterLevel = value; }
 
-        public virtual void Watering(double waterAmount) { }
-        public abstract bool NeedsWater();
-        public abstract string Status();
+        public virtual void Watering(double waterAmount)
+        {
+            WaterLevel += waterAmount * waterAbsorb;
+        }
+
+        public bool NeedsWater()
+        {
+            return WaterLevel <= criticalWaterLevel;
+        }
+
+        public string Status()
+        {
+            return ($"The {Colour} Tree" + (NeedsWater() ? " needs water" : " does not need water") + WaterLevel);
+        }
     }
 }
