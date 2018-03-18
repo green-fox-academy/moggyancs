@@ -17,10 +17,10 @@ namespace Gardening
             this.waterLevel = 0.0;
         }
 
-        public string Colour { get => colour; set => colour = value; }
+        public string Colour { get => colour; }
         public double WaterLevel { get => waterLevel; set => waterLevel = value; }
 
-        public virtual void Watering(double waterAmount)
+        public void Watering(double waterAmount)
         {
             WaterLevel += waterAmount * waterAbsorb;
         }
@@ -32,7 +32,7 @@ namespace Gardening
 
         public string Status()
         {
-            return ($"The {Colour} Tree" + (NeedsWater() ? " needs water" : " does not need water") + WaterLevel);
+            return ($"The {Colour} Tree" + (NeedsWater() ? " needs water" : " does not need water") + waterLevel);
         }
     }
 }

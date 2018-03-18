@@ -6,19 +6,19 @@ namespace Gardening
     {
         static void Main(string[] args)
         {
-            Garden MyGarden = new Garden();
+            Garden Eden = new Garden();
 
-            MyGarden.Add(new Flower("yellow"));
-            MyGarden.Add(new Flower("blue"));
-            MyGarden.Add(new Tree("purple"));
-            MyGarden.Add(new Tree("orange"));
-            MyGarden.ShowGarden();
+            Eden.AddPlant(new Flower("yellow"));
+            Eden.AddPlant(new Flower("blue"));
+            Eden.AddPlant(new Tree("purple"));
+            Eden.AddPlant(new Tree("orange"));
+            Eden.ShowGarden();
 
-            MyGarden.Irrigation(40);
-            MyGarden.ShowGarden();
+            Eden.Irrigation(40);
+            Eden.ShowGarden();
 
-            MyGarden.Irrigation(70);
-            MyGarden.ShowGarden();
+            Eden.Irrigation(70);
+            Eden.ShowGarden();
 
             Console.ReadLine();
         }

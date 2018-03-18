@@ -8,7 +8,7 @@ namespace Gardening
     {
         List<Plant> MyGarden = new List<Plant>();
 
-        public void Add(Plant plant)
+        public void AddPlant(Plant plant)
         {
             MyGarden.Add(plant);
         }
@@ -25,18 +25,12 @@ namespace Gardening
                 WillGetWater.Add(plant);
                 }
             }
-
             foreach (var plant in WillGetWater)
             {
                 plant.Watering(WaterAmount / WillGetWater.Count);
             }
         }
-
-        public bool DoesItNeedWater(Plant plant)
-        {
-            return plant.NeedsWater();
-        }
-
+     
         public void ShowGarden()
         {
             foreach (var plant in MyGarden)
