@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Music
 {
-    class Instrument
+    abstract class Instrument
     {
+        protected string name;
+        abstract public void Play();
     }
 }
