@@ -11,6 +11,8 @@ namespace FishTank
         private string color;
         private double foodAmount;
 
+        public double Weight { get => weight; }
+
         public Fish(string name, int weight, string color, double foodAmount)
         {
             this.name = name;
@@ -19,13 +21,9 @@ namespace FishTank
             this.foodAmount = foodAmount;
         }
 
-        public string Name { get => name; set => name = value; }
-        public double Weight { get => weight; set => weight = value; }
-        public string Color { get => color; set => color = value; }
-
         public virtual string Status()
         {
-            return $"{Name}, weight: {Weight}, color: {Color}";
+            return $"{name}, weight: {weight}, color: {color}";
         }
 
         public void Feed()

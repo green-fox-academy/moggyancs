@@ -14,7 +14,6 @@ namespace FishTank
             aquarium.Add(new Clownfish("Nemo", 5, "orange", "white"));
 
             Console.WriteLine(aquarium.Status());
-            Console.WriteLine();
 
             aquarium.Feed();
             aquarium.RemoveOversizedFish();

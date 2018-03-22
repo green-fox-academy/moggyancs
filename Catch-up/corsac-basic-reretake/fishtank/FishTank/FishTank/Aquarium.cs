@@ -13,22 +13,12 @@ namespace FishTank
             FishTank = new List<Fish>();
         }
 
-        internal string Status()
+        public void Add(Fish fish)
         {
-            List<string> myStatus = new List<string>();
-            foreach (var fish in FishTank)
-            {
-               myStatus.Add(fish.Status());
-            }
-            return string.Join("\n", myStatus);
+            this.FishTank.Add(fish);
         }
 
-        internal void Add(Fish fish)
-        {
-            FishTank.Add(fish);
-        }
-
-        internal void Feed()
+        public void Feed()
         {
             foreach (var fish in FishTank)
             {
@@ -44,6 +34,16 @@ namespace FishTank
         private static bool IsOverWeight(Fish fish)
         {
             return fish.Weight > 10;
+        }
+
+        internal string Status()
+        {
+            List<string> fishStatuses = new List<string>();
+            foreach (var fish in FishTank)
+            {
+               fishStatuses.Add(fish.Status());
+            }
+            return string.Join("\n", fishStatuses) + "\n";
         }
     }
 }

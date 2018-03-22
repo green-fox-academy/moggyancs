@@ -15,7 +15,7 @@ namespace FishTank
 
         public override string Status()
         {
-            return base.Status() + $", short-term memory loss: {memoryLoss}";
+            return base.Status() + $", short-term memory loss: {memoryLoss.ToString().ToLower()}";
         }
     }
 }
