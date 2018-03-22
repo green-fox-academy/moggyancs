@@ -6,15 +6,17 @@ namespace FishTank
 {
     abstract class Fish
     {
-        string name;
-        double weight;
-        string color;
+        private string name;
+        private double weight;
+        private string color;
+        private double foodAmount;
 
-        public Fish(string name, int weight, string color)
+        public Fish(string name, int weight, string color, double foodAmount)
         {
             this.name = name;
             this.weight = weight;
             this.color = color;
+            this.foodAmount = foodAmount;
         }
 
         public string Name { get => name; set => name = value; }
@@ -25,6 +27,10 @@ namespace FishTank
         {
             return $"{Name}, weight: {Weight}, color: {Color}";
         }
-        public abstract void Feed();
+
+        public void Feed()
+        {
+            this.weight += foodAmount;
+        }
     }
 }

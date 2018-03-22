@@ -6,11 +6,9 @@ namespace FishTank
 {
     class Koi : Fish
     {
-        public Koi(string name, int weight, string color) : base(name, weight, color) { }
-
-        public override void Feed()
+        public Koi(string name, int weight, string color) : base(name, weight, color, 2)
         {
-            Weight += 2;
+
         }
 
     }

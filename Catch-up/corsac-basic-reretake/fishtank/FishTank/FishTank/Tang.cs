@@ -8,19 +8,14 @@ namespace FishTank
     {
         private bool memoryLoss;
 
-        public Tang(string name, int weight, string color, bool memoryLoss) : base(name, weight, color)
+        public Tang(string name, int weight, string color, bool memoryLoss) : base(name, weight, color, 1)
         {
             this.memoryLoss = memoryLoss;
         }
 
-        public override void Feed()
-        {
-            Weight++;
-        }
-
         public override string Status()
         {
-            return $"{Name}, weight: {Weight}, color {Color}, short-term memory loss: {memoryLoss}";
+            return base.Status() + $", short-term memory loss: {memoryLoss}";
         }
     }
 }

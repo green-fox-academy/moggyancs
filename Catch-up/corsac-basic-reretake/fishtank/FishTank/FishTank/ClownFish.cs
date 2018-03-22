@@ -8,19 +8,14 @@ namespace FishTank
     {
         private string stripeColor;
 
-        public Clownfish(string name, int weight, string color, string stripes) : base(name, weight, color)
+        public Clownfish(string name, int weight, string color, string stripeColor) : base(name, weight, color, 1)
         {
-            stripeColor = stripes;
-        }
-
-        public override void Feed()
-        {
-            Weight++;
+            this.stripeColor = stripeColor;
         }
 
         public override string Status()
         {
-            return $"{Name}, weight: {Weight}, color {Color}, stripe color: {stripeColor}";
+            return base.Status() + $", stripe color: {stripeColor}";
         }
     }
 }
