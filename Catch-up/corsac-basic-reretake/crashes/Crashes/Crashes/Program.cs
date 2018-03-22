@@ -12,8 +12,9 @@ namespace Crashes
             WeatherCircumstance(path);
 
             //CA solution
-            string[] lines = ReadLines(path);
-            var weatherconditions = ParseWeatherConditions(lines);
+            string[] lines = ReadLines("./crash-incidents.csv");
+            var weatherConditions = ParseWeatherConditions(lines);
+            CountAccidents(weatherConditions);
             Console.ReadLine();
         }
 
@@ -32,35 +33,38 @@ namespace Crashes
             return weatherConditions;
         }
 
-        public void CountAccidents(List<string> weatherCondition)
+        static void CountAccidents(List<string> weatherConditions)
         {
-            var badConditions = new List<string>
+            var badWeatherConditions = new List<string>
             {
                 "RAIN", "FREEZING RAIN", "SNOW", "FOG", "SEVERE CROSSWINDS"
             };
 
-            var goodWeather = new List<string>
+            var goodWeatherConditions = new List<string>
             {
                 "CLOUDY", "CLEAR"
             };
 
-            int badConditionCount = 0;
-            int goodConditionCount = 0;
+            int badWeatherCount = CountWeatherCondition(weatherConditions, badWeatherConditions);
+            int goodWeatherCount = CountWeatherCondition(weatherConditions, goodWeatherConditions);
 
-            foreach (var condition in weatherCondition)
+            Console.WriteLine($"The amount of crashes at good weather conditions: {goodWeatherCount}");
+            Console.WriteLine($"The amount of crashes at bad weather conditions: {badWeatherCount}");
+        }
+
+        static int CountWeatherCondition(List<string> weatherConditions, List<string> weatherConditionsToCount)
+        {
+            int weatherConditionCount = 0;
+
+            foreach (var weatherCondition in weatherConditions)
             {
-                if (badConditions.Contains(condition))
+                if (weatherConditionsToCount.Contains(weatherCondition))
                 {
-                    badConditionCount++;
-                }
-
-                else if (goodWeather.Contains(condition))
-                {
-                    goodConditionCount++;
+                    weatherConditionCount++;
                 }
             }
-            Console.WriteLine($"CA The amount of crashes at good weather conditions: {goodConditionCount}");
-            Console.WriteLine($"CA The amount of crashes at bad weather conditions: {badConditionCount}");
+
+            return weatherConditionCount;
         }
 
         // my solution
