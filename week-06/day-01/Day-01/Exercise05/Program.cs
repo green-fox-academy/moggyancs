@@ -15,13 +15,14 @@ namespace Exercise05
                                  orderby nums
                                  group nums by nums;
 
+            var FrequencyMethod = n.GroupBy(number => number).OrderBy(number => number.Key);
+
             foreach (var frNo in FrequencyQuery)
             {
                 Console.WriteLine($"Number {frNo.Key} appears {frNo.Count()} times.");
             }
 
             Console.WriteLine();
-            var FrequencyMethod = n.GroupBy(number => number).OrderBy(number => number.Key);
 
             foreach (var number in FrequencyMethod)
             {

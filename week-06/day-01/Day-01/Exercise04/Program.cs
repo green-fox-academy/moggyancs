@@ -15,12 +15,14 @@ namespace Exercise04
                                  where nums * nums > 20
                                  select nums;
 
+            var bigSquareMethod = n.Where(number => number * number > 20).Select(number => number);
+
             foreach (var number in bigSquareQuary)
             {
                 Console.Write(number + " ");
             }
+
             Console.WriteLine();
-            var bigSquareMethod = n.Where(number => number * number > 20).Select(number => number);
 
             foreach (var number in bigSquareMethod)
             {

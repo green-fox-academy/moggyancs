@@ -15,13 +15,14 @@ namespace Exercise06
                                      orderby characters
                                      group characters by characters;
 
+            var charFrequencyMethod = target.GroupBy(chars => chars).OrderBy(chars => chars.Key);
+
             foreach (var character in charFrequencyQuery)
             {
                 Console.WriteLine($"The character {character.Key} occurs {character.Count()} times in your string.");
             }
 
             Console.WriteLine();
-            var charFrequencyMethod = target.GroupBy(chars => chars).OrderBy(chars => chars.Key);
 
             foreach (var character in charFrequencyMethod)
             {

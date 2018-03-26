@@ -15,14 +15,17 @@ namespace Exercise03
                                       where nums > 0
                                       select nums * nums;
 
+            var squarePositiveMethod = n
+                    .Where(number => number > 0)
+                    .Select(number => number * number);
+
             foreach (var number in squarePositiveQuery)
             {
                 Console.Write(number + " ");
             }
+
             Console.WriteLine();
-            var squarePositiveMethod = n
-                    .Where(number => number > 0)
-                    .Select(number => number * number);
+
             foreach (var number in squarePositiveMethod)
             {
                 Console.Write(number + " ");

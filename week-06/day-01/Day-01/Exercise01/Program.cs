@@ -15,15 +15,15 @@ namespace Exercise01
                                        where num % 2 == 0
                                        select num;
 
+            var evenNumbersFromMethod = n
+                                        .Where(number => number % 2 == 0)
+                                        .Select(number => number);
+
             foreach (var number in evenNumbersFromQuery)
             {
                 Console.Write(number + " ");
             }
             Console.WriteLine();
-
-            var evenNumbersFromMethod = n
-                                        .Where(number => number % 2 == 0)
-                                        .Select(number => number);
 
             foreach (var number in evenNumbersFromMethod)
             {

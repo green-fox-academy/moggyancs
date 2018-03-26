@@ -12,15 +12,16 @@ namespace Exercise07
             string[] cities = { "ROME", "LONDON", "NAIROBI", "CALIFORNIA", "ZURICH", "NEW DELHI", "AMSTERDAM", "ABU DHABI", "PARIS" };
 
             var stringSearchQuery = from words in cities
-                               where words.StartsWith("A") && words.EndsWith("I")
-                               select words;
+                                    where words.StartsWith("A") && words.EndsWith("I")
+                                    select words;
+
+            var stringSearchMethod = cities.Where(word => word.StartsWith("A") && word.EndsWith("I"));
+
 
             foreach (var word in stringSearchQuery)
             {
                 Console.WriteLine(word);
             }
-
-            var stringSearchMethod = cities.Where(word => word.StartsWith("A") && word.EndsWith("I"));
 
             foreach (var word in stringSearchMethod)
             {

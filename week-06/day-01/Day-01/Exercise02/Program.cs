@@ -16,9 +16,10 @@ namespace Exercise02
                                select nums)
                               .Average();
 
+            var oddAvgMethod = n.Where(number => number % 2 != 0).Average();
+
             Console.WriteLine(oddAvgQuery);
 
-            var oddAvgMethod = n.Where(number => number % 2 != 0).Average();
             Console.WriteLine(oddAvgMethod);
 
             Console.Read();
