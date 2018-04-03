@@ -11,7 +11,8 @@ namespace MyWebApp.Controllers
         [Route("greeting")]
         public IActionResult Index(string name)
         {
-            return new JsonResult(new Greeting(0, $"Good day, {name}"));
+            Greeting greetMe = new Greeting($"Good day, {name}.");
+            return new JsonResult(greetMe);
         }
     }
 }
