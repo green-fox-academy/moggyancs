@@ -9,9 +9,9 @@ namespace MyWebApp.Controllers
     public class RESTController : Controller
     {
         [Route("greeting")]
-        public IActionResult Index()
+        public IActionResult Index(string name)
         {
-            return new JsonResult(new Greeting(0, "Hello, sweetie"));
+            return new JsonResult(new Greeting(0, $"Good day, {name}"));
         }
     }
 }

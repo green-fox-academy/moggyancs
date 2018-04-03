@@ -2,6 +2,7 @@
 {
     public class Greeting
     {
+
         public Greeting(long id, string content)
         {
             Id = id;
