@@ -9,7 +9,8 @@ namespace MyWebApp.Controllers
     {
         public IActionResult Index(string name)
         {
-            var greeting = new Greeting($"{name}");
+            Greeting greeting = new Greeting(name);
+
             return View(greeting);
         }
 
