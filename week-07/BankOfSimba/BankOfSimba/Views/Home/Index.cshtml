@@ -1,0 +1,14 @@
+﻿@model BankOfSimba.Models.BankAccount
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Bank of Simba welcomes you!</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-16" />
+</head>
+<body>
+    <p>
+        Owner: @Model.Name, Animal: @Model.AnimalType, Balance: @String.Format("{0:c}", Convert.ToDecimal(@Model.Balance))
+    </p>
+</body>
+</html>
