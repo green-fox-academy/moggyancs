@@ -42,9 +42,9 @@
             <th>Name</th>
             <th>Animal Type</th>
             <th>Balance </th>
-            @*<th>Royalty</th>
-                <th>Good</th>
-                <th>Picture</th>*@
+            <th>Royalty</th>
+            <th>Good</th>
+            <th>Picture</th>
         </tr>
         @foreach (var d in Model.BankOfPrideLand())
         {
@@ -53,10 +53,7 @@
                 <td>@d.Name</td>
                 <td>@d.AnimalType</td>
                 <td>@d.Balance</td>
-                @*<td>@d.Email</td>
-                    <td>@d.Salary</td>
-                    <td>@d.Company</td>
-                    <td>@d.Dept</td>*@
+                <td>@d.Royalty</td>
             </tr>
         }
     </table>
