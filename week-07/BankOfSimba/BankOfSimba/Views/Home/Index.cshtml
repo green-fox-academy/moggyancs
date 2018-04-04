@@ -1,14 +1,64 @@
-﻿@model BankOfSimba.Models.BankAccount
+﻿@model BankOfSimba.Models.BankAccounts
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Bank of Simba welcomes you!</title>
+    <title>Bank of Pride Lands welcomes you!</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-16" />
+    <style>
+        #accounts {
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+            #accounts td, #accounts th {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            #accounts tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            #accounts tr:hover {
+                background-color: #ddd;
+            }
+
+            #accounts th {
+                padding-top: 12px;
+                padding-bottom: 12px;
+                text-align: left;
+                background-color: #4CAF50;
+                color: white;
+            }
+    </style>
 </head>
 <body>
-    <p>
-        Owner: @Model.Name, Animal: @Model.AnimalType, Balance: @String.Format("{0:c}", Convert.ToDecimal(@Model.Balance))
-    </p>
+    <div><b>The list of all customers and balances</b><br /></div>
+    <table id="accounts">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Animal Type</th>
+            <th>Balance </th>
+            @*<th>Royalty</th>
+                <th>Good</th>
+                <th>Picture</th>*@
+        </tr>
+        @foreach (var d in Model.BankOfPrideLand())
+        {
+            <tr>
+                <td>@d.ID</td>
+                <td>@d.Name</td>
+                <td>@d.AnimalType</td>
+                <td>@d.Balance</td>
+                @*<td>@d.Email</td>
+                    <td>@d.Salary</td>
+                    <td>@d.Company</td>
+                    <td>@d.Dept</td>*@
+            </tr>
+        }
+    </table>
 </body>
 </html>
