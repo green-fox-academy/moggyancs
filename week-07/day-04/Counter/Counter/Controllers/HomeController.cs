@@ -17,9 +17,9 @@ namespace Counter.Controllers
         {
             return View(visitor.GetVisitors());
         }
+
         [HttpPost]
         [Route("/")]
-
         public IActionResult Counting()
         {
             visitor.IncrementVisitors();
