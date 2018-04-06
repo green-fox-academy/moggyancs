@@ -1,5 +1,4 @@
 ﻿using Greetings.Services;
-using Greetings.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Greetings.Controllers
@@ -7,7 +6,6 @@ namespace Greetings.Controllers
     public class HomeController : Controller
     {
         IGreetYou GreetingOnDemand;
-        GreetVisitor greeter;
 
         public HomeController(IGreetYou greetingOnDemand)
         {
@@ -25,15 +23,14 @@ namespace Greetings.Controllers
         [Route("/")]
         public IActionResult Greeting(string visitor)
         {
-            greeter = new GreetVisitor(GreetingOnDemand, visitor);
-            return RedirectToAction("greet");
+            return RedirectToAction("greet", new { visitor });
         }
 
         [HttpGet]
         [Route("greet")]
-        public IActionResult Greet()
+        public IActionResult Greet(string visitor)
         {
-            return View((object)greeter.GetGreet()); //!! Greeter was null :(
+            return View((object)GreetingOnDemand.GreetThee(visitor));
         }
     }
 }
