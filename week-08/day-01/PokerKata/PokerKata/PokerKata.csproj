@@ -49,7 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Card.cs" />
-    <Compile Include="Deck.cs" />
+    <Compile Include="Hand.cs" />
     <Compile Include="PokerKataClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
