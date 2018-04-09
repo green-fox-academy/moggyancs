@@ -1,16 +1,17 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace PokerKata
 {
     public class Card
     {
-        private char Color { get; set; }
-        private int Value { get; set; }
+        public char Color { get; set; }
+        public int Value { get; set; }
+        public List<Char> CardColors = new List<char>(){ 'H', 'S', 'D', 'C' };
 
         public Card(string valueColor)
         {
             char[] ca = valueColor.ToCharArray();
-            Color = ca[ca.Length - 1];
 
             try
             {
@@ -22,17 +23,21 @@ namespace PokerKata
                 {
                     Value = 11;
                 }
-                if (ca[0] == 'K')
+                else if (ca[0] == 'K')
                 {
                     Value = 12;
                 }
-                if (ca[0] == 'Q')
+                else if (ca[0] == 'Q')
                 {
                     Value = 13;
                 }
-                if (ca[0] == 'A')
+                else if (ca[0] == 'A')
                 {
                     Value = 14;
+                }
+                else
+                {
+                    //throw new Exception("Not a valid value");
                 }
             }
         }

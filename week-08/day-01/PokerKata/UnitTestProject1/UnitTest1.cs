@@ -9,13 +9,10 @@ namespace UnitTestProject1
         [Test]
         public void CardInit()
         {
-            //AAA 
-            //var pokerKata = new PokerKataClass();
-            //var result = pokerKata.AddNums(1, 1);
-            //Assert.AreEqual(2, result);
-
-            var card = new Card("10H");
-            Assert.AreNotEqual(card, null);
+            var cardA = new Card("4D");
+            var cardB = new Card("10H");
+            Assert.AreNotEqual(cardA, null);
+            Assert.AreNotEqual(cardB, null);
         }
 
         [Test]
@@ -28,8 +25,14 @@ namespace UnitTestProject1
         [Test]
         public void HandInit()
         {
-            var hand = new Hand(new string []{ "2H", "3D", "5S", "9C", "KD" });
+            var hand = new Hand(new string[] { "2H", "3D", "5S", "9C", "KD" });
             Assert.AreNotEqual(hand, null);
+        }
+
+        [Test]
+        public void InvalidCardColor()
+        {
+            var card = new Card("10L");
 
         }
     }
