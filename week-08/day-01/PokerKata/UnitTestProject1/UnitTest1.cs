@@ -17,5 +17,11 @@ namespace UnitTestProject1
             var card = new Card("10H");
             Assert.AreNotEqual(card, null);
         }
+        [Test]
+        public void CardWithFigure()
+        {
+            var card = new Card("KH");
+            Assert.AreNotEqual(card, null);
+        }
     }
 }
