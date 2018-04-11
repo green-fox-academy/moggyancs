@@ -3,11 +3,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>What to do</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
 </head>
 <body>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+
     <h1>Todos for today</h1>
     <form action="/add" method="get">
-        <input type="submit" value="Add new thing">
+        @*<input type="submit" value="Add new thing">*@
+        <button type="submit" class="btn btn-primary">Add new thing</button>
     </form>
     <table style="width:50%">
         <tr>
@@ -15,13 +20,13 @@
             <th>Urgent</th>
             <th>Done</th>
         </tr>
-    @foreach ( var thing in Model)
-    {
-        <tr>
-            <td>@thing.Title</td>
-            <td>@thing.IsUrgent</td>
-        </tr>
-    }
+        @foreach (var thing in Model)
+        {
+            <tr>
+                <td>@thing.Title</td>
+                <td>@thing.IsUrgent</td>
+            </tr>
+        }
     </table>
 </body>
 </html>

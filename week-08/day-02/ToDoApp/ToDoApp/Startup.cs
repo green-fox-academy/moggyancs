@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using System;
 using ToDoApp.Repositories;
 
 namespace ToDoApp
@@ -14,6 +15,7 @@ namespace ToDoApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            var connection = Environment.GetEnvironmentVariable("DATABASE_CONNECTION_STRING");
             services.AddDbContext<ToDoContext>(options =>
                 options.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=todo;Integrated Security=True;"));
             services.AddScoped<IDoThingsRepo, ToDoRepo>();
@@ -28,6 +30,7 @@ namespace ToDoApp
             }
 
             app.UseMvc();
+            app.UseStaticFiles();
 
             app.Run(async (context) =>
             {

@@ -6,7 +6,7 @@ using ToDoApp.Repositories;
 
 namespace ToDoApp.Controllers
 {
-    [Route("/todo")]
+    [Route("/Todo")]
     public class ToDoController : Controller
     {
         IDoThingsRepo MyToDos;
@@ -17,7 +17,7 @@ namespace ToDoApp.Controllers
         }
 
         [Route("/")]
-        [Route("/list")]
+        [Route("/List")]
         [HttpGet]
         public IActionResult List()
         {
@@ -25,20 +25,20 @@ namespace ToDoApp.Controllers
             return View(MyToDos.Read());
         }
 
-        [Route("/add")]
+        [Route("/Add")]
         [HttpGet]
         public IActionResult Add()
         {
             return View();
         }
 
-        [Route("/create")]
+        [Route("/Create")]
         [HttpPost]
         public IActionResult Create(string Title, bool IsUrgent)
         {
             ToDo thing = new ToDo(Title, IsUrgent);
             MyToDos.Create(thing);
-            return RedirectToAction("list");
+            return RedirectToAction("List");
         }
     }
 }

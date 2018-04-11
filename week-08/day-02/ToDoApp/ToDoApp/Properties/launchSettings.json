@@ -12,6 +12,8 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
+        "ENVIRONMENT": "Development",
+        "DATABASE_CONNTECTION_STRING": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=todo;Integrated Security=True;",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
