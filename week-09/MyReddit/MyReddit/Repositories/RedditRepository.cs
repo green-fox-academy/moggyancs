@@ -49,5 +49,11 @@ namespace MyReddit.Repositories
             context.Remove(GetOnePost(postID));
             context.SaveChanges();
         }
+
+        public void AddUser(User user)
+        {
+            context.Add(user);
+            context.SaveChanges();
+        }
     }
 }

@@ -7,5 +7,6 @@
         public string Url { get; set; }
         public long Timestamp { get; set; }
         public int Score { get; set; }
+        public User Owner { get; set; }
     }
 }
