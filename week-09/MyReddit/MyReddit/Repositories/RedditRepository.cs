@@ -1,4 +1,5 @@
-﻿using MyReddit.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using MyReddit.Entities;
 using MyReddit.Models;
 using System;
 using System.Collections.Generic;
@@ -25,10 +26,17 @@ namespace MyReddit.Repositories
             return context.Posts.FirstOrDefault(p => p.Id == postID);
         }
 
-        public void CreatePost(Post post)
+        public void CreatePost(PostDTO post)
         {
-            context.Add(post);
-            post.Timestamp = ((DateTimeOffset)DateTime.UtcNow).ToUnixTimeSeconds();
+            context.Users.Load();
+            Post newPost = new Post()
+            {
+                Timestamp = ((DateTimeOffset)DateTime.UtcNow).ToUnixTimeSeconds(),
+                Title = post.Title,
+                Url = post.Url,
+                Owner = context.Users.FirstOrDefault(u => u.Id == post.OwnerId)
+            };
+            context.Add(newPost);
             context.SaveChanges();
         }
 
