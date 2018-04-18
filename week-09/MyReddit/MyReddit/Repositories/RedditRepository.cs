@@ -55,5 +55,15 @@ namespace MyReddit.Repositories
             context.Add(user);
             context.SaveChanges();
         }
+
+        public List<User> GetAllUsers()
+        {
+            return context.Users.ToList();
+        }
+
+        public User GetOneUser(int userID)
+        {
+            return context.Users.FirstOrDefault(u => u.Id == userID);
+        }
     }
 }

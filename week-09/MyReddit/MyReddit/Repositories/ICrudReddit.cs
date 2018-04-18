@@ -10,7 +10,10 @@ namespace MyReddit.Repositories
         void UpvotePost(int postID);
         void DownVotePost(int postID);
         void DeletePost(int postID);
+        Post GetOnePost(int postId);
 
         void AddUser(User user);
+        List<User> GetAllUsers();
+        User GetOneUser(int userID);
     }
 }

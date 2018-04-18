@@ -48,5 +48,26 @@ namespace MyReddit.Controllers
             Reddit.DeletePost(id);
             return Reddit.GetAllPosts();
         }
+
+        [HttpPost("/users")]
+        public IEnumerable<User> AddUser([FromBody] User user)
+        {
+            Reddit.AddUser(user);
+            return Reddit.GetAllUsers();
+        }
+
+        [HttpGet("/users")]
+        public IActionResult Users()
+        {
+            var users = Reddit.GetAllUsers();
+            return new OkObjectResult(users);
+        }
+
+        [HttpGet("/users/{id}")]
+        public IActionResult GetUser([FromRoute] int id)
+        {
+            var user = Reddit.GetOneUser(id);
+            return new OkObjectResult(user);
+        }
     }
 }

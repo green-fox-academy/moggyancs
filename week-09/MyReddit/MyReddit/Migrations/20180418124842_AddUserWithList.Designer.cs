@@ -11,9 +11,10 @@ using System;
 namespace MyReddit.Migrations
 {
     [DbContext(typeof(MyRedditContext))]
-    partial class MyRedditContextModelSnapshot : ModelSnapshot
+    [Migration("20180418124842_AddUserWithList")]
+    partial class AddUserWithList
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
