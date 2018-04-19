@@ -14,9 +14,10 @@ namespace SpaceTravelling.Controllers
             Space = space;
         }
 
+        [HttpGet("/")]
         public IActionResult Index()
         {
-            return View();
+            return View(Space.GetAllPlanets());
         }
     }
 }
