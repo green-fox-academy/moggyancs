@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Space Transporter</title>
+    <style>
+        th {
+            background: grey;
+        }
+
+        table {
+            border-collapse: collapse;
+            border-spacing: 0px;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Space Transporter</h1>
+    <table>
+        <tr>
+            <th>Planet</th>
+            <th>Population</th>
+            <th>Spaceship location</th>
+            <th>People on ship</th>
+        </tr>
+        <tr>
+            <td>Moon</td>
+            <td>50</td>
+            <td><form action="movehere/1" method="POST"><input type="submit" value="Move here" /></form></td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Mars</td>
+            <td>431</td>
+            <td><a href="#">← to planet</a> <a href="#">to ship →</a></td>6
+            <td>60</td>
+        </tr>
+    </table>
+
+</body>
+</html>
