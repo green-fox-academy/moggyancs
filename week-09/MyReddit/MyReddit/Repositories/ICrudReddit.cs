@@ -15,5 +15,6 @@ namespace MyReddit.Repositories
         void AddUser(User user);
         List<User> GetAllUsers();
         User GetOneUser(int userID);
+        void DeleteUser(int userID);
     }
 }

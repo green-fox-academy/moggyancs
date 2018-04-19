@@ -5,26 +5,25 @@
     <title>My reddit</title>
 </head>
 <body>
-    <table>
-        <thead>
-            <tr>
-                <td>User</td>
-                <td>Title</td>
-                <td>Url</td>
-            </tr>
-        </thead>
-
-        @foreach (var post in Model)
-        {
+    <h1>Here you can see the posts</h1>
+    @foreach (var post in Model)
+    {
+        <table>
             <tr>
                 <td> @post.Owner.Name </td>
-                <td> @post.Title</td>
-                <td> @post.Url</td>
-
+                <td> <h2>@post.Title</h2></td>
+                <td> Created on @(new System.DateTime(1970, 1, 1, 0, 0, 0, 0).AddSeconds(post.Timestamp + 7200))</td>
+            </tr>
+            <tr>
+                <td> <img src="@post.Url" alt="@post.Title" width="160" height="160" /></td>
+                <td><p>post.content</p></td>
             </tr>
 
-        }
-    </table>
+        </table>
+        <img src="https://www.team2.asia/wp-content/uploads/2016/02/divider-line.png" width="600" />
+
+    }
+
 
 </body>
 </html>

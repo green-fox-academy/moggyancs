@@ -69,5 +69,12 @@ namespace MyReddit.Controllers
             var user = Reddit.GetOneUser(id);
             return new OkObjectResult(user);
         }
+
+        [HttpDelete("users/{id}")]
+        public IEnumerable<User> DeleteUsers([FromRoute] int id)
+        {
+            Reddit.DeleteUser(id);
+            return Reddit.GetAllUsers();
+        }
     }
 }

@@ -67,7 +67,6 @@ namespace MyReddit.Repositories
 
         public List<User> GetAllUsers()
         {
-
             context.Posts.Load();
             return context.Users.ToList();
         }
@@ -76,6 +75,11 @@ namespace MyReddit.Repositories
         {
             context.Posts.Load();
             return context.Users.FirstOrDefault(u => u.Id == userID);
+        }
+
+        public void DeleteUser(int userID)
+        {
+            context.Users.Remove(GetOneUser(userID));
         }
     }
 }
