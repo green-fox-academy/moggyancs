@@ -18,6 +18,7 @@ namespace MyReddit.Repositories
 
         public List<Post> GetAllPosts()
         {
+            context.Users.Load();
             return context.Posts.ToList();
         }
 
@@ -26,18 +27,18 @@ namespace MyReddit.Repositories
             return context.Posts.FirstOrDefault(p => p.Id == postID);
         }
 
-        public void CreatePost(PostDTO post)
+        public int CreatePost(PostDTO post, string username)
         {
-            context.Users.Load();
             Post newPost = new Post()
             {
                 Timestamp = ((DateTimeOffset)DateTime.UtcNow).ToUnixTimeSeconds(),
                 Title = post.Title,
                 Url = post.Url,
-                Owner = context.Users.FirstOrDefault(u => u.Id == post.OwnerId)
+                Owner = context.Users.FirstOrDefault(u => u.Name == username)
             };
             context.Add(newPost);
             context.SaveChanges();
+            return newPost.Id;
         }
 
         public void UpvotePost(int postID)
@@ -66,11 +67,14 @@ namespace MyReddit.Repositories
 
         public List<User> GetAllUsers()
         {
+
+            context.Posts.Load();
             return context.Users.ToList();
         }
 
         public User GetOneUser(int userID)
         {
+            context.Posts.Load();
             return context.Users.FirstOrDefault(u => u.Id == userID);
         }
     }

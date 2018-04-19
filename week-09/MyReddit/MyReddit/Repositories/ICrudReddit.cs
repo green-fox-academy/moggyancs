@@ -6,7 +6,7 @@ namespace MyReddit.Repositories
     public interface ICrudReddit
     {
         List<Post> GetAllPosts();
-        void CreatePost(PostDTO post);
+        int CreatePost(PostDTO post, string username);
         void UpvotePost(int postID);
         void DownVotePost(int postID);
         void DeletePost(int postID);

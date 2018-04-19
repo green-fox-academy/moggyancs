@@ -22,10 +22,10 @@ namespace MyReddit.Controllers
         }
 
         [HttpPost("posts")]
-        public IEnumerable<Post> CreatePost([FromBody] PostDTO post)
+        public Post CreatePost([FromBody] PostDTO post, [FromHeader] string username)
         {
-            Reddit.CreatePost(post);
-            return Reddit.GetAllPosts();
+            int id = Reddit.CreatePost(post, username);
+            return Reddit.GetOnePost(id);
         }
 
         [HttpPut("posts/{id}/upvote")]
@@ -68,12 +68,6 @@ namespace MyReddit.Controllers
         {
             var user = Reddit.GetOneUser(id);
             return new OkObjectResult(user);
-        }
-
-        [HttpGet("test")]
-        public PostDTO TestDTO()
-        {
-            return new PostDTO() { OwnerId = 2, Title = "titlestring", Url = "sampleurl" };
         }
     }
 }

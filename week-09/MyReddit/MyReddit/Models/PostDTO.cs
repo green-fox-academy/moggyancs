@@ -8,7 +8,5 @@ namespace MyReddit.Models
         public string Title { get; set; }
         [JsonProperty(PropertyName = "url")]
         public string Url { get; set; }
-        [JsonProperty(PropertyName = "ownerid")]
-        public int OwnerId { get; set; }
     }
 }

@@ -15,9 +15,10 @@ namespace MyReddit.Controllers
             Reddit = reddit;
         }
 
+        [HttpGet("posts")]
         public IActionResult Index()
         {
-            return View();
+            return View(Reddit.GetAllPosts());
         }
     }
 }

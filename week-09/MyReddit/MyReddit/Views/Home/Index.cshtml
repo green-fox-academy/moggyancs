@@ -1,5 +1,30 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model List<MyReddit.Models.Post>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>My reddit</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <td>User</td>
+                <td>Title</td>
+                <td>Url</td>
+            </tr>
+        </thead>
+
+        @foreach (var post in Model)
+        {
+            <tr>
+                <td> @post.Owner.Name </td>
+                <td> @post.Title</td>
+                <td> @post.Url</td>
+
+            </tr>
+
+        }
+    </table>
+
+</body>
+</html>
