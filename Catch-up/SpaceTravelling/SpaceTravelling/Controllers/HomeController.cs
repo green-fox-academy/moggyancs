@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using SpaceTravelling.Repositories;
+using SpaceTravelling.ViewModels;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -11,24 +8,44 @@ namespace SpaceTravelling.Controllers
 {
     public class HomeController : Controller
     {
-        SpaceshipRepository spaceshipRepository;
+        ITravelInSpace spaceshipRepository;
+        SpaceTravelVM vm;
 
-        public HomeController(SpaceshipRepository spaceshipRepository)
+        public HomeController(ITravelInSpace spaceshipRepository)
         {
             this.spaceshipRepository = spaceshipRepository;
+            vm = new SpaceTravelVM()
+            {
+                Spaceship = spaceshipRepository.GetSpaceship(),
+                Planets = spaceshipRepository.GetAllPlanets()
+            };
         }
 
-        [HttpGet ("/")]
+        [HttpGet("/")]
         public IActionResult Index()
         {
-            return View("Index");
+            return View("Index", vm);
         }
 
-        [HttpPost ("/movehere/{id}")]
+        [HttpPost("/movehere/{id}")]
         public IActionResult MoveHere([FromRoute] int id)
         {
+            spaceshipRepository.TravelToPlanet(id);
+            return RedirectToAction("Index");
+        }
 
-            return View("Index");
+        [HttpGet("toship/{id}")]
+        public IActionResult MoveToShip([FromRoute] int id)
+        {
+            spaceshipRepository.MoveToShip(id);
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet("toplanet/{id}")]
+        public IActionResult MoveToPlanet([FromRoute] int id)
+        {
+            spaceshipRepository.MoveToPlanet(id);
+            return RedirectToAction("Index");
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@model SpaceTravelling.ViewModels.SpaceTravelVM
+<!DOCTYPE html>
 <html>
 <head>
     <title>Space Transporter</title>
@@ -26,18 +27,25 @@
             <th>Spaceship location</th>
             <th>People on ship</th>
         </tr>
-        <tr>
-            <td>Moon</td>
-            <td>50</td>
-            <td><form action="movehere/1" method="POST"><input type="submit" value="Move here" /></form></td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Mars</td>
-            <td>431</td>
-            <td><a href="#">← to planet</a> <a href="#">to ship →</a></td>6
-            <td>60</td>
-        </tr>
+        @foreach (var planet in Model.Planets)
+        {
+            <tr>
+                <td>@planet.Name</td>
+                <td>@planet.Population</td>
+                @if (planet.Name == Model.Spaceship.Planet)
+                {
+                    <td><a href="/toplanet/@planet.Id">← to planet</a> <a href="/toship/@planet.Id">to ship →</a></td>
+                    <td>@Model.Spaceship.Utilization</td>
+
+
+                }
+                else
+                {
+                    <td><form action="movehere/@planet.Id" method="POST"><input type="submit" value="Move here" /></form></td>
+                    <td>-</td>
+                }
+            </tr>
+        }
     </table>
 
 </body>

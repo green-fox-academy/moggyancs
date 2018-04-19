@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace SpaceTravelling.Repositories
 {
-    interface ITravelInSpace
+    public interface ITravelInSpace
     {
         void MoveToPlanet(int planetID);
         void MoveToShip(int planetID);

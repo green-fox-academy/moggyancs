@@ -31,18 +31,28 @@ namespace SpaceTravelling.Repositories
         public void MoveToPlanet(int planetID)
         {
             int passengers = GetSpaceship().Utilization;
-            GetSpaceship().Utilization -= passengers;
             Planet destination = GetPlanet(planetID);
+            GetSpaceship().Utilization -= passengers;
             destination.Population += passengers;
             Context.SaveChanges();
         }
 
         public void MoveToShip(int planetID)
         {
-            int passengers = GetSpaceship().MaxCapacity - GetSpaceship().Utilization;
             Planet source = GetPlanet(planetID);
+            int passengers;
+            int capacity = GetSpaceship().MaxCapacity - GetSpaceship().Utilization;
+            if (capacity >= source.Population)
+            {
+                passengers = (int)source.Population;
+            }
+            else
+            {
+                passengers = capacity;
+            }
             source.Population -= passengers;
             GetSpaceship().Utilization += passengers;
+            Context.SaveChanges();
         }
 
         public void TravelToPlanet(int planetID)
@@ -51,7 +61,5 @@ namespace SpaceTravelling.Repositories
             GetSpaceship().Planet = planetname;
             Context.SaveChanges();
         }
-
-
     }
 }
