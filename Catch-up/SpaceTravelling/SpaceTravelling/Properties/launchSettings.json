@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:59439/",
+      "applicationUrl": "http://localhost:57741/",
       "sslPort": 0
     }
   },
@@ -12,7 +12,6 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "SQL_CONNECTIONSTRING": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=SpaceX;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
@@ -22,7 +21,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:59440/"
+      "applicationUrl": "http://localhost:57742/"
     }
   }
 }

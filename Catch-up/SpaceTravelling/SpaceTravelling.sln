@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTravelling", "SpaceTravelling\SpaceTravelling.csproj", "{050B3A88-6F5A-416C-857F-094E53A6ED13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTravelling", "SpaceTravelling\SpaceTravelling.csproj", "{766CC1D9-4FE0-4F00-A6D2-71615B23A014}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{050B3A88-6F5A-416C-857F-094E53A6ED13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{050B3A88-6F5A-416C-857F-094E53A6ED13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{050B3A88-6F5A-416C-857F-094E53A6ED13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{050B3A88-6F5A-416C-857F-094E53A6ED13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766CC1D9-4FE0-4F00-A6D2-71615B23A014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766CC1D9-4FE0-4F00-A6D2-71615B23A014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766CC1D9-4FE0-4F00-A6D2-71615B23A014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766CC1D9-4FE0-4F00-A6D2-71615B23A014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {60423854-9A05-4167-9AF3-C5D05A1592E4}
+		SolutionGuid = {E527FF16-2699-4AEF-BD0A-FCE2BA7D9A62}
 	EndGlobalSection
 EndGlobal
