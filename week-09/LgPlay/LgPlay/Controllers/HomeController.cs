@@ -19,7 +19,6 @@ namespace LgPlay.Controllers
                 var db = new Doubler(input);
                 return new JsonResult(db);
             }
-
             else
             {
                 var doublerError = new ErrorMsg("an input");
@@ -35,7 +34,6 @@ namespace LgPlay.Controllers
                 var nameError = new ErrorMsg("a name");
                 return new JsonResult(nameError);
             }
-
             else if (title == null)
             {
                 var titleError = new ErrorMsg("a title");
@@ -71,14 +69,12 @@ namespace LgPlay.Controllers
                 sum.Result = sum.Sum((int)until.Until);
                 return new JsonResult(sum);
             }
-
             else if (what == "factor")
             {
                 var fact = new DoUntil();
                 fact.Result = fact.Fact((int)until.Until);
                 return new JsonResult(fact);
             }
-
             else
             {
                 var doUntilError = new ErrorMsg("a number");
@@ -95,9 +91,6 @@ namespace LgPlay.Controllers
                 sum.Result = sum.ArraySum(numbers);
                 return new JsonResult(sum);
             }
-
-
-
             return Ok();
         }
 
