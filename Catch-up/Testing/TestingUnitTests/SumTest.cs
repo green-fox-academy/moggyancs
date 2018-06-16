@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using System;
 using System.Collections.Generic;
 using Testing.Models;
 
@@ -9,7 +10,6 @@ namespace TestingUnitTests
     {
         static IEnumerable<object[]> SourceMethod()
         {
-
             List<object[]> sourcelist = new List<object[]>
             {
                 new object[]
@@ -25,7 +25,6 @@ namespace TestingUnitTests
             };
 
             return sourcelist;
-
         }
 
         [TestCaseSource(nameof(SourceMethod))]
@@ -55,15 +54,13 @@ namespace TestingUnitTests
         }
 
 
-        //[TestCase]
-        //public void AddListedNumbers_WithNullList_TrhowsException()
-        //{
-        //    List<int> nullList = null;
-        //    var myMath = new Sum();
-        //    var result = myMath.AddListedNumbers(nullList);
+        [TestCase]
+        public void AddListedNumbers_WithNullList_TrhowsException()
+        {
+            var myMath = new Sum();
 
-        //    Assert.Throws(typeof();
-        //}
+            Assert.Throws<NullReferenceException>(() => myMath.AddListedNumbers(null));
+        }
 
     }
 }

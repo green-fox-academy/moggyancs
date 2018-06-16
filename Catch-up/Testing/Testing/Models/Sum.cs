@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace Testing.Models
 {
@@ -11,17 +12,23 @@ namespace Testing.Models
 
         public int AddListedNumbers(List<int> numbers)
         {
-            int result = 0;
-            foreach (var number in numbers)
+            try
             {
-                result += number;
+                int result = 0;
+                foreach (var number in numbers)
+                {
+                    result += number;
+                }
+
+                var dicti = new Dictionary<int, List<int>>() { { 3, new List<int>() { 1, 1, 1 } } };
+
+                return result;
             }
 
-            var dicti = new Dictionary<int, List<int>>() { { 3, new List<int>() { 1, 1, 1 } } };
-
-            return result;
-
-
+            catch (ArgumentNullException)
+            {
+                throw new ArgumentNullException("no list found");
+            }
 
         }
     }
