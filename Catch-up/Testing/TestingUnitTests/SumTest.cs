@@ -7,26 +7,28 @@ namespace TestingUnitTests
     [TestFixture]
     public class SumTest
     {
-
-        List<int> emptyList = new List<int> { };
-        List<int> oneItemList = new List<int> { 1 };
-        List<int> manyItemList = new List<int> { 1, 2, 3, 4 };
-
-        public object[] _sourceLists =
+        static IEnumerable<object[]> SourceMethod()
         {
-            new object[]
-            {new Dictionary<int, List<int>>()
-                {
-                    { 0, new List<int>() { } }
-                }
-            },
-			//empty list
-			new object[] {new Dictionary<int, List<int>>() { { 1, new List<int>() { 1 } } } },      //single element list
-			new object[] {new Dictionary<int, List<int>>() { { 3, new List<int>() { 1, 1, 1 } } } } //multiple elements	
-			
-		};
 
-        [TestCase, TestCaseSource("_sourceLists")]
+            List<object[]> sourcelist = new List<object[]>
+            {
+                new object[]
+                {
+                    new Dictionary<int, List<int>>()
+                    {
+                        { 0, new List<int>() { }
+                        }
+                    }
+                },
+                new object[] {new Dictionary<int, List<int>>() { { 1, new List<int>() { 1 } } } },
+                new object[] {new Dictionary<int, List<int>>() { { 3, new List<int>() { 1, 1, 1 } } } }
+            };
+
+            return sourcelist;
+
+        }
+
+        [TestCaseSource(nameof(SourceMethod))]
         public void AddListedNumbers_withNotNullLists(Dictionary<int, List<int>> input)
         {
             var myMath = new Sum();
@@ -34,9 +36,11 @@ namespace TestingUnitTests
             foreach (var value in input.Values)
             {
                 result = myMath.AddListedNumbers(value);
+                foreach (var key in input.Keys)
+                {
+                    Assert.AreEqual(key, result);
+                }
             }
-
-            Assert.AreEqual(input.Keys, result);
         }
 
         [TestCase(1, 2, 3, 6)]
