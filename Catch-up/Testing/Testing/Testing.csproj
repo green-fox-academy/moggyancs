@@ -182,8 +182,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\Apple.cs" />
-    <Compile Include="Models\Sum.cs" />
+    <Compile Include="Models\ForUnits\Anagram.cs" />
+    <Compile Include="Models\ForUnits\Apple.cs" />
+    <Compile Include="Models\ForUnits\Sum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

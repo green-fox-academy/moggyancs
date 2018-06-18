@@ -53,9 +53,10 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AppleTest.cs" />
+    <Compile Include="BasicTests\AnagramTests.cs" />
+    <Compile Include="BasicTests\AppleTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SumTest.cs" />
+    <Compile Include="BasicTests\SumTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
